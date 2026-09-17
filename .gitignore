@@ -2,6 +2,17 @@
 *.zip
 train.txt
 val.txt
+1/
+2/
+3/
+4/
+5/
+6/
+7/
+8/
+labels_colour_1002data/
+labels_gray_1002data/
+new_images_1002data/
 data/processed/
 artifacts/
 checkpoints/
