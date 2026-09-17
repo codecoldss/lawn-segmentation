@@ -1,0 +1,13 @@
+{
+  "model_name": "nvidia/mit-b0",
+  "num_labels": 3,
+  "image_width": 640,
+  "image_height": 480,
+  "epochs": 80,
+  "batch_size": 4,
+  "learning_rate": 0.00006,
+  "weight_decay": 0.01,
+  "seed": 20260918,
+  "num_workers": 4,
+  "validation_groups": ["2", "3", "4"]
+}

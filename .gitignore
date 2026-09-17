@@ -1,0 +1,11 @@
+# Source archives are the immutable input data; do not add multi-GB copies to Git.
+*.zip
+train.txt
+val.txt
+data/processed/
+artifacts/
+checkpoints/
+*.onnx
+__pycache__/
+.pytest_cache/
+.venv/
