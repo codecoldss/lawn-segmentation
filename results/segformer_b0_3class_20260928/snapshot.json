@@ -1,10 +1,17 @@
 {
-  "status": "training_in_progress",
-  "captured_at_utc": "2026-09-28T14:40:00.810105+00:00",
-  "completed_epochs": 9,
+  "status": "training_completed",
+  "shutdown_triggered_at_utc": "2026-09-28T15:25:36Z",
+  "completed_epochs": 80,
   "requested_epochs": 80,
-  "best_epoch": 7,
-  "best_miou": 0.8925109214894897,
-  "checkpoint_sha256": "795347c354c32427a6dffb13adc6e0480586c00aabe04cde0e4359998891c97e",
+  "best_epoch": 34,
+  "best_miou": 0.8949948627784652,
+  "best_pixel_accuracy": 0.9881775752780011,
+  "best_iou": {
+    "background": 0.979045617640768,
+    "grass": 0.9817222179553857,
+    "soil_grass": 0.7242167527392416
+  },
+  "final_epoch_miou": 0.8768962593728049,
+  "checkpoint_sha256": "11d7046746a14c052d990e04386c7e0694589fd157874ee55b608f16ef578107",
   "remote_run": "/root/lawn_segmentation/artifacts/train_20260928T143323Z"
 }
