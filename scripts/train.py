@@ -57,10 +57,13 @@ def main() -> None:
     history = []
     for epoch in range(1, config["epochs"] + 1):
         model.train(); losses = []
-        for batch in train_loader:
+        for step, batch in enumerate(train_loader, 1):
             optimizer.zero_grad(set_to_none=True)
             result = model(pixel_values=batch["pixel_values"].cuda(non_blocking=True), labels=batch["labels"].cuda(non_blocking=True))
-            result.loss.backward(); optimizer.step(); losses.append(float(result.loss.detach().cpu()))
+            result.loss.backward(); optimizer.step()
+            loss_value = float(result.loss.detach().cpu()); losses.append(loss_value)
+            if step == 1 or step % 50 == 0:
+                print(json.dumps({"epoch": epoch, "step": step, "steps_per_epoch": len(train_loader), "train_loss": loss_value}), flush=True)
         metrics = evaluate(model, val_loader, "cuda")
         row = {"epoch": epoch, "train_loss": float(np.mean(losses)), **metrics}; history.append(row)
         print(json.dumps(row, ensure_ascii=False)); (args.output / "metrics.json").write_text(json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8")

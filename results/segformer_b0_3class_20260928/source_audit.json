@@ -1,0 +1,38 @@
+{
+  "sample_count": 3896,
+  "image_sizes": {
+    "(640, 480)": 3896
+  },
+  "source_image_sizes": {
+    "(640, 480)": 4145
+  },
+  "mask_sizes": {
+    "(640, 480)": 3896
+  },
+  "mask_value_pixels": {
+    "0": 619002963,
+    "1": 548596841,
+    "2": 29251396
+  },
+  "groups": {
+    "1": 164,
+    "2": 308,
+    "3": 468,
+    "4": 468,
+    "5": 320,
+    "6": 213,
+    "7": 700,
+    "8": 752,
+    "supplement": 503
+  },
+  "source_sample_count": 4145,
+  "empty_gray_labels": 249,
+  "excluded_empty_gray_labels": 249,
+  "validation_groups": [
+    "2",
+    "3",
+    "4"
+  ],
+  "train_count": 2652,
+  "val_count": 1244
+}

@@ -15,7 +15,7 @@ pip install -r requirements.txt
 $env:PYTHONPATH = "$PWD\src"
 ```
 
-## 可执行 SOP
+## 训练操作 Skill
 
 1. 只做全量源数据审计（不解压、不写入工程数据）：
 
@@ -76,3 +76,7 @@ python -m py_compile scripts\*.py src\lawn_segmentation\*.py
 ## 第二阶段：过曝草
 
 当前灰度掩码只有 `0/1/2`，因此不能伪造第四类。新增 `3=过曝草` 前，先冻结标注规范、对新增掩码抽样复核，然后将配置、调色板、评测与模型输出统一改为四类，并同三类基线进行同一验证集对比。
+
+## 已上传训练结果（进行中）
+
+本次训练的权重、指标、配置和环境快照见 [结果目录](results/segformer_b0_3class_20260928/README.md)。该快照来自训练中途；完整 80 轮结束后会更新。

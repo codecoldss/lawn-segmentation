@@ -1,0 +1,4 @@
+7c5693366dded9584c2268f7478b84630d66ec4d28999f4acc1d909610d5438f  scripts/train.py
+16545c0f79f824bcaa977cde8f3e3678cf746866c29d40a2ff0ce88b3e0e4e11  src/lawn_segmentation/data.py
+a43505e680a48299527da3f0da35b1c68f95b44ca7c9dcf9dd76012daa533318  data/processed/train.jsonl
+4e18f8e141f89cc5b0606b22362ec7be95a795cc92ebbdbb80998ff80832f375  data/processed/val.jsonl

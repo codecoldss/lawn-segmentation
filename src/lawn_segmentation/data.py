@@ -35,7 +35,7 @@ def build_dataset(records: list[dict], training: bool):
         A.HueSaturationValue(hue_shift_limit=12, sat_shift_limit=18, val_shift_limit=18, p=0.35),
         A.RandomGamma(gamma_limit=(80, 125), p=0.35),
     ] if training else []
-    transform = A.Compose(transforms)
+    transform = A.Compose(transforms + [A.Resize(height=480, width=640)])
 
     class LawnDataset(Dataset):
         def __len__(self):
