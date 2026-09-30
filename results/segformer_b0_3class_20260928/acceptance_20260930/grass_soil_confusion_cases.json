@@ -1,0 +1,542 @@
+[
+  {
+    "index": 233,
+    "name": "record_S315BB11SS1004_640x480_10_20240702_193457_612230_24783_China.png",
+    "group": "2",
+    "miou": 0.01935980902777778,
+    "iou": {
+      "background": 0.0,
+      "grass": 0.0,
+      "soil_grass": 0.058079427083333336
+    },
+    "grass_pixels": 0,
+    "soil_pixels": 307200,
+    "grass_soil_confusion_pixels": 289061,
+    "grass_soil_confusion_rate": 0.9409537760416666,
+    "grass_mean_brightness": 255.0,
+    "red_grass_fraction": 0.0,
+    "bright_fraction": 0.0
+  },
+  {
+    "index": 960,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224618_604029_12425_China.png",
+    "group": "4",
+    "miou": 0.6387107410244561,
+    "iou": {
+      "background": 0.9853768436371778,
+      "grass": 0.9307553794361906,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 164429,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 9725,
+    "grass_soil_confusion_rate": 0.059144068260465005,
+    "grass_mean_brightness": 216.68460551362594,
+    "red_grass_fraction": 0.0004743688765363774,
+    "bright_fraction": 0.43557291666666664
+  },
+  {
+    "index": 934,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224525_880816_11634_China.png",
+    "group": "4",
+    "miou": 0.6253768907257425,
+    "iou": {
+      "background": 0.9691313295266804,
+      "grass": 0.9069993426505473,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 139098,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 7755,
+    "grass_soil_confusion_rate": 0.05575205969891731,
+    "grass_mean_brightness": 197.13427942889186,
+    "red_grass_fraction": 8.627011171979468e-05,
+    "bright_fraction": 0.22819661458333335
+  },
+  {
+    "index": 932,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224525_412430_11627_China.png",
+    "group": "4",
+    "miou": 0.6371723368776645,
+    "iou": {
+      "background": 0.9718596616699638,
+      "grass": 0.9396573489630298,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 138104,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 3559,
+    "grass_soil_confusion_rate": 0.025770433875919596,
+    "grass_mean_brightness": 185.98387447141286,
+    "red_grass_fraction": 0.00010861379829693565,
+    "bright_fraction": 0.15884765625
+  },
+  {
+    "index": 945,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224536_75917_11787_China.png",
+    "group": "4",
+    "miou": 0.658243264667823,
+    "iou": {
+      "background": 0.9968074199962845,
+      "grass": 0.9779223740071846,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 162005,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 3155,
+    "grass_soil_confusion_rate": 0.01947470757075399,
+    "grass_mean_brightness": 209.12511959507424,
+    "red_grass_fraction": 0.0027344835035955683,
+    "bright_fraction": 0.26190104166666667
+  },
+  {
+    "index": 911,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224457_90381_11202_China.png",
+    "group": "4",
+    "miou": 0.6470987620841543,
+    "iou": {
+      "background": 0.9774990268831381,
+      "grass": 0.9637972593693247,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 150720,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 1975,
+    "grass_soil_confusion_rate": 0.013103768577494693,
+    "grass_mean_brightness": 96.55682059447983,
+    "red_grass_fraction": 0.0005573248407643312,
+    "bright_fraction": 0.10759114583333333
+  },
+  {
+    "index": 1100,
+    "name": "record_S315BB11SS1004_640x480_10_20240705_162010_784414_4946_China.png",
+    "group": "4",
+    "miou": 0.9187904705765905,
+    "iou": {
+      "background": 0.9132745462454032,
+      "grass": 0.9367576856979186,
+      "soil_grass": 0.9063391797864495
+    },
+    "grass_pixels": 125067,
+    "soil_pixels": 56914,
+    "grass_soil_confusion_pixels": 1578,
+    "grass_soil_confusion_rate": 0.008671234909138867,
+    "grass_mean_brightness": 112.43887676205554,
+    "red_grass_fraction": 0.06447744009211064,
+    "bright_fraction": 0.053349609375
+  },
+  {
+    "index": 613,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_203336_274282_8186_China.png",
+    "group": "3",
+    "miou": 0.6091732586392986,
+    "iou": {
+      "background": 0.9079164944191814,
+      "grass": 0.9196032814987143,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 120563,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 1024,
+    "grass_soil_confusion_rate": 0.00849348473412241,
+    "grass_mean_brightness": 70.70578038038204,
+    "red_grass_fraction": 7.464976817099774e-05,
+    "bright_fraction": 0.19820963541666667
+  },
+  {
+    "index": 936,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224527_545873_11659_China.png",
+    "group": "4",
+    "miou": 0.6595214438666479,
+    "iou": {
+      "background": 0.992062975262819,
+      "grass": 0.9865013563371248,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 169111,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 1338,
+    "grass_soil_confusion_rate": 0.007911963148464618,
+    "grass_mean_brightness": 150.65047217508027,
+    "red_grass_fraction": 0.0024421829449296616,
+    "bright_fraction": 0.0552734375
+  },
+  {
+    "index": 935,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224526_278409_11640_China.png",
+    "group": "4",
+    "miou": 0.6466137764062604,
+    "iou": {
+      "background": 0.9734859590307079,
+      "grass": 0.9663553701880732,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 151641,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 1089,
+    "grass_soil_confusion_rate": 0.007181435100005935,
+    "grass_mean_brightness": 139.1179298474687,
+    "red_grass_fraction": 0.00035610421983500506,
+    "bright_fraction": 0.063779296875
+  },
+  {
+    "index": 949,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224540_145962_11848_China.png",
+    "group": "4",
+    "miou": 0.6535827092108761,
+    "iou": {
+      "background": 0.9816761996095489,
+      "grass": 0.9790719280230795,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 162369,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 1031,
+    "grass_soil_confusion_rate": 0.006349734247300901,
+    "grass_mean_brightness": 103.51367564005444,
+    "red_grass_fraction": 0.00017244671088693039,
+    "bright_fraction": 0.05181640625
+  },
+  {
+    "index": 1102,
+    "name": "record_S315BB11SS1004_640x480_10_20240705_162011_654246_4959_China.png",
+    "group": "4",
+    "miou": 0.9713079729163622,
+    "iou": {
+      "background": 0.9730099403578529,
+      "grass": 0.976015070989876,
+      "soil_grass": 0.9648989074013575
+    },
+    "grass_pixels": 129213,
+    "soil_pixels": 53734,
+    "grass_soil_confusion_pixels": 836,
+    "grass_soil_confusion_rate": 0.00456962945552537,
+    "grass_mean_brightness": 104.97129545788736,
+    "red_grass_fraction": 0.041350328527315364,
+    "bright_fraction": 0.041243489583333334
+  },
+  {
+    "index": 737,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_203820_280809_12447_China.png",
+    "group": "3",
+    "miou": 0.6375576880358639,
+    "iou": {
+      "background": 0.922889074947988,
+      "grass": 0.9897839891596035,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 149662,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 534,
+    "grass_soil_confusion_rate": 0.0035680399834293274,
+    "grass_mean_brightness": 151.12762758749716,
+    "red_grass_fraction": 0.0014165252368670738,
+    "bright_fraction": 0.16888671875
+  },
+  {
+    "index": 1101,
+    "name": "record_S315BB11SS1004_640x480_10_20240705_162011_255432_4953_China.png",
+    "group": "4",
+    "miou": 0.9690481082011108,
+    "iou": {
+      "background": 0.9689092051085212,
+      "grass": 0.9847243508028131,
+      "soil_grass": 0.9535107686919979
+    },
+    "grass_pixels": 138837,
+    "soil_pixels": 55192,
+    "grass_soil_confusion_pixels": 612,
+    "grass_soil_confusion_rate": 0.003154167675965964,
+    "grass_mean_brightness": 108.01395161232236,
+    "red_grass_fraction": 0.08296779676887285,
+    "bright_fraction": 0.04457682291666667
+  },
+  {
+    "index": 998,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224755_579451_13880_China.png",
+    "group": "4",
+    "miou": 0.7714256268832993,
+    "iou": {
+      "background": 0.9315727379980034,
+      "grass": 0.40686175580222,
+      "soil_grass": 0.9758423868496744
+    },
+    "grass_pixels": 12954,
+    "soil_pixels": 66496,
+    "grass_soil_confusion_pixels": 241,
+    "grass_soil_confusion_rate": 0.0030333543108873504,
+    "grass_mean_brightness": 75.68550254747568,
+    "red_grass_fraction": 0.0,
+    "bright_fraction": 0.192275390625
+  },
+  {
+    "index": 942,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224536_477473_11793_China.png",
+    "group": "4",
+    "miou": 0.6613354159648105,
+    "iou": {
+      "background": 0.9924023973086817,
+      "grass": 0.99160385058575,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 166002,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 483,
+    "grass_soil_confusion_rate": 0.002909603498753027,
+    "grass_mean_brightness": 148.20050963241405,
+    "red_grass_fraction": 0.0036987506174624403,
+    "bright_fraction": 0.06984049479166667
+  },
+  {
+    "index": 966,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224638_994518_12731_China.png",
+    "group": "4",
+    "miou": 0.9134422338311157,
+    "iou": {
+      "background": 0.98563852281949,
+      "grass": 0.9899966103565432,
+      "soil_grass": 0.7646915683173136
+    },
+    "grass_pixels": 126061,
+    "soil_pixels": 7988,
+    "grass_soil_confusion_pixels": 345,
+    "grass_soil_confusion_rate": 0.0025736857417809904,
+    "grass_mean_brightness": 136.07025963620788,
+    "red_grass_fraction": 0.0064333933571842205,
+    "bright_fraction": 0.24340169270833334
+  },
+  {
+    "index": 1010,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224834_702431_14467_China.png",
+    "group": "4",
+    "miou": 0.9133388590232648,
+    "iou": {
+      "background": 0.9431900225088125,
+      "grass": 0.957280763398306,
+      "soil_grass": 0.8395457911626759
+    },
+    "grass_pixels": 156379,
+    "soil_pixels": 10507,
+    "grass_soil_confusion_pixels": 427,
+    "grass_soil_confusion_rate": 0.0025586328391836344,
+    "grass_mean_brightness": 223.14429047378485,
+    "red_grass_fraction": 0.005940695361909208,
+    "bright_fraction": 0.43583333333333335
+  },
+  {
+    "index": 692,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_203603_113610_10389_China.png",
+    "group": "3",
+    "miou": 0.814460596521834,
+    "iou": {
+      "background": 0.7917992949310333,
+      "grass": 0.8390013749667347,
+      "soil_grass": 0.8125811196677338
+    },
+    "grass_pixels": 151982,
+    "soil_pixels": 10256,
+    "grass_soil_confusion_pixels": 395,
+    "grass_soil_confusion_rate": 0.0024346947077749973,
+    "grass_mean_brightness": 132.48537984761353,
+    "red_grass_fraction": 0.0029345580397678673,
+    "bright_fraction": 0.055478515625
+  },
+  {
+    "index": 578,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_203130_236276_6295_China.png",
+    "group": "3",
+    "miou": 0.6628149846713604,
+    "iou": {
+      "background": 0.9952364864864864,
+      "grass": 0.9932084675275945,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 159749,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 381,
+    "grass_soil_confusion_rate": 0.0023849914553455732,
+    "grass_mean_brightness": 133.2945620942854,
+    "red_grass_fraction": 0.028939148288878176,
+    "bright_fraction": 0.24560221354166667
+  },
+  {
+    "index": 1099,
+    "name": "record_S315BB11SS1004_640x480_10_20240705_162009_986378_4934_China.png",
+    "group": "4",
+    "miou": 0.7871953783758823,
+    "iou": {
+      "background": 0.7804773362028317,
+      "grass": 0.8171731689915106,
+      "soil_grass": 0.7639356299333048
+    },
+    "grass_pixels": 81485,
+    "soil_pixels": 62776,
+    "grass_soil_confusion_pixels": 329,
+    "grass_soil_confusion_rate": 0.002280588655284519,
+    "grass_mean_brightness": 137.28039516475425,
+    "red_grass_fraction": 0.00757194575688777,
+    "bright_fraction": 0.14525716145833334
+  },
+  {
+    "index": 677,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_203526_917494_9846_China.png",
+    "group": "3",
+    "miou": 0.6627276649865683,
+    "iou": {
+      "background": 0.9947051068703939,
+      "grass": 0.9934778880893109,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 168926,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 373,
+    "grass_soil_confusion_rate": 0.002208067437813007,
+    "grass_mean_brightness": 152.0365367083812,
+    "red_grass_fraction": 0.029290932124125358,
+    "bright_fraction": 0.18166341145833334
+  },
+  {
+    "index": 733,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_203802_884982_12186_China.png",
+    "group": "3",
+    "miou": 0.6605814337188001,
+    "iou": {
+      "background": 0.9917854794902614,
+      "grass": 0.9899588216661387,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 157845,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 348,
+    "grass_soil_confusion_rate": 0.0022046944787608097,
+    "grass_mean_brightness": 147.3721372232253,
+    "red_grass_fraction": 0.015927017010358265,
+    "bright_fraction": 0.16647786458333333
+  },
+  {
+    "index": 922,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224506_152453_11338_China.png",
+    "group": "4",
+    "miou": 0.6575577196349713,
+    "iou": {
+      "background": 0.9852971838659125,
+      "grass": 0.9873759750390015,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 158698,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 294,
+    "grass_soil_confusion_rate": 0.001852575331762215,
+    "grass_mean_brightness": 154.5168118060719,
+    "red_grass_fraction": 0.0008191659630241087,
+    "bright_fraction": 0.28585611979166664
+  },
+  {
+    "index": 941,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224535_954780_11785_China.png",
+    "group": "4",
+    "miou": 0.6625761508674625,
+    "iou": {
+      "background": 0.9944029071467357,
+      "grass": 0.9933255454556517,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 163975,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 293,
+    "grass_soil_confusion_rate": 0.0017868577527062053,
+    "grass_mean_brightness": 203.4485439853636,
+    "red_grass_fraction": 0.0008050007623113279,
+    "bright_fraction": 0.258193359375
+  },
+  {
+    "index": 967,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_224639_261073_12735_China.png",
+    "group": "4",
+    "miou": 0.8805482124417261,
+    "iou": {
+      "background": 0.9735667402868075,
+      "grass": 0.9948181440059155,
+      "soil_grass": 0.6732597530324554
+    },
+    "grass_pixels": 172668,
+    "soil_pixels": 9147,
+    "grass_soil_confusion_pixels": 244,
+    "grass_soil_confusion_rate": 0.0013420234854109947,
+    "grass_mean_brightness": 127.94872819514907,
+    "red_grass_fraction": 0.01882224847684574,
+    "bright_fraction": 0.12524088541666667
+  },
+  {
+    "index": 778,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_203950_993664_13808_China.png",
+    "group": "4",
+    "miou": 0.8549873230728409,
+    "iou": {
+      "background": 0.8474179382831539,
+      "grass": 0.7565797046850636,
+      "soil_grass": 0.9609643262503053
+    },
+    "grass_pixels": 73794,
+    "soil_pixels": 68016,
+    "grass_soil_confusion_pixels": 185,
+    "grass_soil_confusion_rate": 0.0013045624427050278,
+    "grass_mean_brightness": 104.8182914600103,
+    "red_grass_fraction": 0.003089682087974632,
+    "bright_fraction": 0.10996419270833334
+  },
+  {
+    "index": 89,
+    "name": "record_S315BB11SS1004_640x480_10_20240702_192612_605683_16907_China.png",
+    "group": "2",
+    "miou": 0.6501250894044386,
+    "iou": {
+      "background": 0.9778379212516174,
+      "grass": 0.9725373469616984,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 140573,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 178,
+    "grass_soil_confusion_rate": 0.0012662460074125187,
+    "grass_mean_brightness": 171.75192248867137,
+    "red_grass_fraction": 0.003066022635925818,
+    "bright_fraction": 0.15515950520833333
+  },
+  {
+    "index": 604,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_203309_12922_7777_China.png",
+    "group": "3",
+    "miou": 0.8601636661395444,
+    "iou": {
+      "background": 0.9761945193934477,
+      "grass": 0.9825955992597896,
+      "soil_grass": 0.6217008797653959
+    },
+    "grass_pixels": 146309,
+    "soil_pixels": 4089,
+    "grass_soil_confusion_pixels": 170,
+    "grass_soil_confusion_rate": 0.0011303341799757975,
+    "grass_mean_brightness": 119.89287740330397,
+    "red_grass_fraction": 0.03509695234059422,
+    "bright_fraction": 0.12099609375
+  },
+  {
+    "index": 728,
+    "name": "record_S315BB11SS1004_640x480_10_20240704_203753_951806_12052_China.png",
+    "group": "3",
+    "miou": 0.6638521947259118,
+    "iou": {
+      "background": 0.9962708436652647,
+      "grass": 0.9952857405124709,
+      "soil_grass": 0.0
+    },
+    "grass_pixels": 152425,
+    "soil_pixels": 0,
+    "grass_soil_confusion_pixels": 140,
+    "grass_soil_confusion_rate": 0.0009184845005740528,
+    "grass_mean_brightness": 157.30916188289322,
+    "red_grass_fraction": 0.00034771198950303426,
+    "bright_fraction": 0.296806640625
+  }
+]

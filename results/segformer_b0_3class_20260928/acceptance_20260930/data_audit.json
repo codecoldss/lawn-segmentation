@@ -1,0 +1,24 @@
+{
+  "effective_dataset_pass": true,
+  "counts": {
+    "train": 2652,
+    "validation": 1244
+  },
+  "train_groups": [
+    "1",
+    "5",
+    "6",
+    "7",
+    "8",
+    "supplement"
+  ],
+  "validation_groups": [
+    "2",
+    "3",
+    "4"
+  ],
+  "invalid": [],
+  "duplicate_names": [],
+  "cross_split_identical_images": [],
+  "scope": "3896 effective pairs; the original 4145-pair requirement still has 249 empty masks"
+}

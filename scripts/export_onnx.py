@@ -10,15 +10,27 @@ from infer import load_model
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(); parser.add_argument("--checkpoint", type=Path, required=True); parser.add_argument("--output", type=Path, default=Path("artifacts/segformer_b0_3class_640x480.onnx")); args = parser.parse_args()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--checkpoint", type=Path, required=True)
+    parser.add_argument("--output", type=Path, default=Path("artifacts/segformer_b0_3class_640x480.onnx"))
+    parser.add_argument("--device", default="cpu", choices=["cpu", "cuda"])
+    parser.add_argument("--threads", type=int, default=4)
+    args = parser.parse_args()
     import torch
     import torch.nn.functional as F
-    model = load_model(args.checkpoint, "cpu")
+    torch.set_num_threads(args.threads)
+    if args.device == "cuda" and not torch.cuda.is_available():
+        raise SystemExit("CUDA requested but unavailable")
+    model = load_model(args.checkpoint, args.device)
     class Exportable(torch.nn.Module):
         def __init__(self, wrapped): super().__init__(); self.wrapped = wrapped
         def forward(self, images): return F.interpolate(self.wrapped(pixel_values=images).logits, size=(IMAGE_SIZE[1], IMAGE_SIZE[0]), mode="bilinear", align_corners=False)
     args.output.parent.mkdir(parents=True, exist_ok=True)
-    torch.onnx.export(Exportable(model), torch.zeros(1, 3, IMAGE_SIZE[1], IMAGE_SIZE[0]), args.output, input_names=["images"], output_names=["logits"], opset_version=17)
+    with torch.no_grad():
+        torch.onnx.export(Exportable(model).eval(), torch.zeros(1, 3, IMAGE_SIZE[1], IMAGE_SIZE[0], device=args.device), args.output, input_names=["images"], output_names=["logits"], opset_version=17)
+    import onnx
+    onnx.checker.check_model(onnx.load(args.output))
+    print(f"ONNX exported and checked: {args.output}", flush=True)
 
 
 if __name__ == "__main__": main()

@@ -1,0 +1,59 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "mode": "single",
+      "command": [
+        "/root/lawn_segmentation/.venv/bin/python",
+        "/root/lawn_segmentation/scripts/infer.py",
+        "--checkpoint",
+        "artifacts/train_20260928T143323Z/best.pt",
+        "--input",
+        "/root/lawn_segmentation/data/processed/images/record_S315BB11SS1004_640x480_10_20240702_191925_223184_10795_China.png",
+        "--output",
+        "artifacts/interface_checks/single",
+        "--device",
+        "cuda"
+      ],
+      "image_count": 1,
+      "mask_shape": [
+        480,
+        640
+      ],
+      "labels": [
+        0,
+        1,
+        2
+      ],
+      "all_pixel_coordinates_verified": true,
+      "traversable_matches_grass": true
+    },
+    {
+      "mode": "folder",
+      "command": [
+        "/root/lawn_segmentation/.venv/bin/python",
+        "/root/lawn_segmentation/scripts/infer.py",
+        "--checkpoint",
+        "artifacts/train_20260928T143323Z/best.pt",
+        "--input",
+        "artifacts/interface_checks/folder_inputs",
+        "--output",
+        "artifacts/interface_checks/folder",
+        "--device",
+        "cuda"
+      ],
+      "image_count": 2,
+      "mask_shape": [
+        480,
+        640
+      ],
+      "labels": [
+        0,
+        1,
+        2
+      ],
+      "all_pixel_coordinates_verified": true,
+      "traversable_matches_grass": true
+    }
+  ]
+}

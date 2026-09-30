@@ -1,0 +1,9 @@
+Effective dataset audited: 2652 train, 1244 validation
+Evaluated 200/1244
+Evaluated 400/1244
+Evaluated 600/1244
+Evaluated 800/1244
+Evaluated 1000/1244
+Evaluated 1200/1244
+Evaluated 1244/1244
+{"pixel_accuracy": 0.9881775752780011, "iou": {"background": 0.979045617640768, "grass": 0.9817222179553857, "soil_grass": 0.7242167527392416}, "miou": 0.8949948627784652, "confusion_matrix": [[195599737, 1805953, 713148], [1176566, 178006762, 40825], [490728, 290800, 4032281]], "samples": 1244, "checkpoint_sha256": "11d7046746a14c052d990e04386c7e0694589fd157874ee55b608f16ef578107", "reference_epoch": 34, "reference_miou": 0.8949948627784652, "matches_training_confusion_matrix": true}

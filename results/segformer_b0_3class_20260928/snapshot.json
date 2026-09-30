@@ -13,5 +13,23 @@
   },
   "final_epoch_miou": 0.8768962593728049,
   "checkpoint_sha256": "11d7046746a14c052d990e04386c7e0694589fd157874ee55b608f16ef578107",
-  "remote_run": "/root/lawn_segmentation/artifacts/train_20260928T143323Z"
+  "remote_run": "/root/lawn_segmentation/artifacts/train_20260928T143323Z",
+  "acceptance_20260930": {
+    "status": "engineering_checks_passed_with_data_and_safety_gaps",
+    "validation_samples": 1244,
+    "matches_best_training_confusion_matrix": true,
+    "visual_review_count": 30,
+    "visual_reviewer": "AI; human sign-off pending",
+    "onnx_comparison_samples": 10,
+    "minimum_mask_agreement": 1.0,
+    "onnx_sha256": "f7129d3760ed02b845eb063729da664c00732b6c7c1a01d2e2c111fe51597297",
+    "single_and_folder_inference_passed": true,
+    "original_empty_masks": 249,
+    "rknn_conversion": "not_performed",
+    "rk3588_board_validation": "not_performed",
+    "safety_findings": [
+      "sample16 shrub predicted grass",
+      "sample28 bright-scene grass false negatives"
+    ]
+  }
 }
