@@ -31,5 +31,13 @@
       "sample16 shrub predicted grass",
       "sample28 bright-scene grass false negatives"
     ]
+  },
+  "post_acceptance_shutdown": {
+    "at_utc": "2026-09-30T12:14:46Z",
+    "host": "connect.westd.seetacloud.com",
+    "port": 46220,
+    "platform_shutdown_helper_exit_code": 0,
+    "ssh_after_shutdown": "connection_refused",
+    "platform_billing_status": "not_independently_verified"
   }
 }
