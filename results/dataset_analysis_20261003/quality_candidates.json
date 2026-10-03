@@ -1,0 +1,113 @@
+[
+  {
+    "group": "2",
+    "name": "record_S315BB11SS1004_640x480_10_20240702_193457_612230_24783_China.png",
+    "split": "validation",
+    "pixels": [
+      0,
+      0,
+      307200
+    ],
+    "mean_brightness": 8.22,
+    "rgb_min": 0,
+    "rgb_max": 20,
+    "channel_standard_deviation": [
+      1.0992659772632605,
+      1.0969292014153347,
+      1.1417003438400644
+    ],
+    "status": "suspected_uninformative_dark_frame",
+    "archived_baseline_metrics": {
+      "index": 233,
+      "name": "record_S315BB11SS1004_640x480_10_20240702_193457_612230_24783_China.png",
+      "group": "2",
+      "miou": 0.01935980902777778,
+      "iou": {
+        "background": 0.0,
+        "grass": 0.0,
+        "soil_grass": 0.058079427083333336
+      },
+      "grass_pixels": 0,
+      "soil_pixels": 307200,
+      "grass_soil_confusion_pixels": 289061,
+      "grass_soil_confusion_rate": 0.9409537760416666,
+      "grass_mean_brightness": 255.0,
+      "red_grass_fraction": 0.0,
+      "bright_fraction": 0.0
+    }
+  },
+  {
+    "group": "2",
+    "name": "record_S315BB11SS1004_640x480_10_20240702_193654_987418_26544_China.png",
+    "split": "validation",
+    "pixels": [
+      307200,
+      0,
+      0
+    ],
+    "mean_brightness": 123.80916341145833,
+    "rgb_min": 0,
+    "rgb_max": 255,
+    "channel_standard_deviation": [
+      85.62126543174111,
+      79.18220108785366,
+      88.37648468411474
+    ],
+    "status": "all_background_mask_requires_visual_review",
+    "archived_baseline_metrics": {
+      "index": 264,
+      "name": "record_S315BB11SS1004_640x480_10_20240702_193654_987418_26544_China.png",
+      "group": "2",
+      "miou": 0.3300960286458333,
+      "iou": {
+        "background": 0.6601920572916666,
+        "grass": 0.0,
+        "soil_grass": null
+      },
+      "grass_pixels": 0,
+      "soil_pixels": 0,
+      "grass_soil_confusion_pixels": 0,
+      "grass_soil_confusion_rate": 0.0,
+      "grass_mean_brightness": 255.0,
+      "red_grass_fraction": 0.0,
+      "bright_fraction": 0.2518717447916667
+    }
+  },
+  {
+    "group": "3",
+    "name": "record_S315BB11SS1004_640x480_10_20240704_202655_95050_2167_China.png",
+    "split": "validation",
+    "pixels": [
+      307200,
+      0,
+      0
+    ],
+    "mean_brightness": 145.14627278645833,
+    "rgb_min": 0,
+    "rgb_max": 255,
+    "channel_standard_deviation": [
+      61.663530430328734,
+      56.96448060937931,
+      64.9093510993946
+    ],
+    "status": "all_background_mask_requires_visual_review",
+    "archived_baseline_metrics": {
+      "index": 460,
+      "name": "record_S315BB11SS1004_640x480_10_20240704_202655_95050_2167_China.png",
+      "group": "3",
+      "miou": 0.2096831597222222,
+      "iou": {
+        "background": 0.6290494791666666,
+        "grass": 0.0,
+        "soil_grass": 0.0
+      },
+      "grass_pixels": 0,
+      "soil_pixels": 0,
+      "grass_soil_confusion_pixels": 0,
+      "grass_soil_confusion_rate": 0.0,
+      "grass_mean_brightness": 255.0,
+      "red_grass_fraction": 0.0,
+      "bright_fraction": 0.13083658854166666
+    }
+  }
+]

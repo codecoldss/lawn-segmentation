@@ -1,0 +1,552 @@
+{
+  "date": "2026-10-03",
+  "source": "immutable original image and grayscale-mask ZIP entries; no data modified",
+  "overall": {
+    "images": 4145,
+    "usable": 3896,
+    "empty_masks": 249,
+    "invalid_or_missing": 249,
+    "pixels": {
+      "background": 619002963,
+      "grass": 548596841,
+      "soil_grass": 29251396
+    },
+    "pixel_fraction": {
+      "background": 0.5171929167134561,
+      "grass": 0.45836678862000557,
+      "soil_grass": 0.02444029466653833
+    },
+    "images_with_class": {
+      "background": 3895,
+      "grass": 3884,
+      "soil_grass": 1090
+    },
+    "soil_fraction_quantiles": {
+      "min": 0.0,
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.00989501953125,
+      "p90": 0.0727001953125,
+      "max": 1.0
+    }
+  },
+  "groups": {
+    "1": {
+      "images": 164,
+      "usable": 164,
+      "empty_masks": 0,
+      "invalid_or_missing": 0,
+      "pixels": {
+        "background": 29567125,
+        "grass": 20129130,
+        "soil_grass": 684545
+      },
+      "pixel_fraction": {
+        "background": 0.5868728761750508,
+        "grass": 0.39953970560213414,
+        "soil_grass": 0.013587418222815041
+      },
+      "images_with_class": {
+        "background": 164,
+        "grass": 164,
+        "soil_grass": 40
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.0,
+        "p90": 0.0374772135416667,
+        "max": 0.6945865885416667
+      }
+    },
+    "2": {
+      "images": 308,
+      "usable": 308,
+      "empty_masks": 0,
+      "invalid_or_missing": 0,
+      "pixels": {
+        "background": 51614667,
+        "grass": 42695733,
+        "soil_grass": 307200
+      },
+      "pixel_fraction": {
+        "background": 0.5455080978591721,
+        "grass": 0.4512451488940747,
+        "soil_grass": 0.003246753246753247
+      },
+      "images_with_class": {
+        "background": 307,
+        "grass": 306,
+        "soil_grass": 1
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.0,
+        "p90": 0.0,
+        "max": 1.0
+      }
+    },
+    "3": {
+      "images": 468,
+      "usable": 468,
+      "empty_masks": 0,
+      "invalid_or_missing": 0,
+      "pixels": {
+        "background": 74514746,
+        "grass": 68343024,
+        "soil_grass": 911830
+      },
+      "pixel_fraction": {
+        "background": 0.5182927823406339,
+        "grass": 0.4753649172008547,
+        "soil_grass": 0.006342300458511396
+      },
+      "images_with_class": {
+        "background": 468,
+        "grass": 467,
+        "soil_grass": 57
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.0,
+        "p90": 0.008408203125,
+        "max": 0.45982421875
+      }
+    },
+    "4": {
+      "images": 468,
+      "usable": 468,
+      "empty_masks": 0,
+      "invalid_or_missing": 0,
+      "pixels": {
+        "background": 71989425,
+        "grass": 68185396,
+        "soil_grass": 3594779
+      },
+      "pixel_fraction": {
+        "background": 0.5007277268629807,
+        "grass": 0.4742685240829772,
+        "soil_grass": 0.025003749054042023
+      },
+      "images_with_class": {
+        "background": 468,
+        "grass": 468,
+        "soil_grass": 148
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.01320068359375,
+        "p90": 0.073388671875,
+        "max": 0.7819791666666667
+      }
+    },
+    "5": {
+      "images": 320,
+      "usable": 320,
+      "empty_masks": 0,
+      "invalid_or_missing": 0,
+      "pixels": {
+        "background": 50737183,
+        "grass": 44398105,
+        "soil_grass": 3168712
+      },
+      "pixel_fraction": {
+        "background": 0.5161253153483073,
+        "grass": 0.45164087931315106,
+        "soil_grass": 0.032233805338541664
+      },
+      "images_with_class": {
+        "background": 320,
+        "grass": 320,
+        "soil_grass": 159
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.03716634114583334,
+        "p90": 0.08203710937500003,
+        "max": 0.4383821614583333
+      }
+    },
+    "6": {
+      "images": 213,
+      "usable": 213,
+      "empty_masks": 0,
+      "invalid_or_missing": 0,
+      "pixels": {
+        "background": 31622827,
+        "grass": 32265757,
+        "soil_grass": 1545016
+      },
+      "pixel_fraction": {
+        "background": 0.48328117358665884,
+        "grass": 0.4931068594728091,
+        "soil_grass": 0.02361196694053208
+      },
+      "images_with_class": {
+        "background": 213,
+        "grass": 212,
+        "soil_grass": 84
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.014700520833333333,
+        "p90": 0.07955729166666668,
+        "max": 0.5032096354166666
+      }
+    },
+    "7": {
+      "images": 700,
+      "usable": 700,
+      "empty_masks": 0,
+      "invalid_or_missing": 0,
+      "pixels": {
+        "background": 108073857,
+        "grass": 101432632,
+        "soil_grass": 5533511
+      },
+      "pixel_fraction": {
+        "background": 0.5025755998883928,
+        "grass": 0.47169192708333335,
+        "soil_grass": 0.02573247302827381
+      },
+      "images_with_class": {
+        "background": 700,
+        "grass": 697,
+        "soil_grass": 157
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.0,
+        "p90": 0.1067076822916667,
+        "max": 0.5204720052083334
+      }
+    },
+    "8": {
+      "images": 752,
+      "usable": 752,
+      "empty_masks": 0,
+      "invalid_or_missing": 0,
+      "pixels": {
+        "background": 122975968,
+        "grass": 98457885,
+        "soil_grass": 9580547
+      },
+      "pixel_fraction": {
+        "background": 0.5323303136081561,
+        "grass": 0.42619804219996676,
+        "soil_grass": 0.04147164419187722
+      },
+      "images_with_class": {
+        "background": 752,
+        "grass": 747,
+        "soil_grass": 301
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.039983723958333335,
+        "p90": 0.14160123697916657,
+        "max": 0.5111686197916666
+      }
+    },
+    "supplement": {
+      "images": 752,
+      "usable": 503,
+      "empty_masks": 249,
+      "invalid_or_missing": 249,
+      "pixels": {
+        "background": 77907165,
+        "grass": 72689179,
+        "soil_grass": 3925256
+      },
+      "pixel_fraction": {
+        "background": 0.5041830074242047,
+        "grass": 0.47041435631005635,
+        "soil_grass": 0.0254026362657389
+      },
+      "images_with_class": {
+        "background": 503,
+        "grass": 503,
+        "soil_grass": 143
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.0124365234375,
+        "p90": 0.06654427083333339,
+        "max": 0.507236328125
+      }
+    }
+  },
+  "splits": {
+    "train": {
+      "images": 2901,
+      "usable": 2652,
+      "empty_masks": 249,
+      "invalid_or_missing": 249,
+      "pixels": {
+        "background": 420884125,
+        "grass": 369372688,
+        "soil_grass": 24437587
+      },
+      "pixel_fraction": {
+        "background": 0.5166159543995884,
+        "grass": 0.4533880286890397,
+        "soil_grass": 0.02999601691137192
+      },
+      "images_with_class": {
+        "background": 2652,
+        "grass": 2643,
+        "soil_grass": 884
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.019850260416666668,
+        "p90": 0.0950166015625001,
+        "max": 0.6945865885416667
+      }
+    },
+    "validation": {
+      "images": 1244,
+      "usable": 1244,
+      "empty_masks": 0,
+      "invalid_or_missing": 0,
+      "pixels": {
+        "background": 198118838,
+        "grass": 179224153,
+        "soil_grass": 4813809
+      },
+      "pixel_fraction": {
+        "background": 0.5184229038970392,
+        "grass": 0.4689806723313572,
+        "soil_grass": 0.012596423771603698
+      },
+      "images_with_class": {
+        "background": 1243,
+        "grass": 1241,
+        "soil_grass": 206
+      },
+      "soil_fraction_quantiles": {
+        "min": 0.0,
+        "p25": 0.0,
+        "median": 0.0,
+        "p75": 0.0,
+        "p90": 0.025522786458333356,
+        "max": 1.0
+      }
+    }
+  },
+  "duplicates": {
+    "image_file_md5": {
+      "groups": 0,
+      "members": 0,
+      "redundant_copies": 0,
+      "cross_effective_split_groups": 0
+    },
+    "image_decoded_pixel_md5": {
+      "groups": 0,
+      "members": 0,
+      "redundant_copies": 0,
+      "cross_effective_split_groups": 0
+    },
+    "nonempty_mask_file_md5": {
+      "groups": 1,
+      "members": 2,
+      "redundant_copies": 1,
+      "cross_effective_split_groups": 0
+    },
+    "mask_decoded_pixel_md5": {
+      "groups": 1,
+      "members": 2,
+      "redundant_copies": 1,
+      "cross_effective_split_groups": 0
+    },
+    "decoded_image_mask_pair_md5": {
+      "groups": 0,
+      "members": 0,
+      "redundant_copies": 0,
+      "cross_effective_split_groups": 0
+    }
+  },
+  "conflicting_masks_for_identical_images": 0,
+  "duplicate_filenames": {},
+  "issues": [],
+  "adjacent_dhash_candidates": 16,
+  "adjacent_dhash_threshold": 3,
+  "adjacent_dhash_by_group": {
+    "1": 1,
+    "3": 2,
+    "4": 2,
+    "5": 1,
+    "6": 1,
+    "7": 3,
+    "8": 3,
+    "supplement": 3
+  },
+  "definitions": {
+    "MD5": "exact file or decoded-pixel equality; not a near-duplicate test",
+    "dHash": "64-bit 9x8 grayscale horizontal difference hash, consecutive filename-ordered images only; candidates require human review",
+    "mask_repeats": "identical masks alone do not establish duplicate images; 0-byte masks excluded from mask duplicate groups"
+  },
+  "manifest_sha256": "d3046c9fd5048ff6cce822c41ce034b91dcd57d468fd5c8752fb3f768b65493f",
+  "cross_split_dhash": {
+    "compared_pairs": 3299088,
+    "threshold": 3,
+    "candidate_pairs": 0,
+    "interpretation": "candidates only; not confirmed leakage or exhaustive perceptual matching"
+  },
+  "adjacent_dhash_unique_images": 32,
+  "filename_capture_date_counts": {
+    "unknown": 130,
+    "20240702": 333,
+    "20240704": 733,
+    "20240705": 2844,
+    "20240706": 105
+  },
+  "quality_candidates": [
+    {
+      "group": "2",
+      "name": "record_S315BB11SS1004_640x480_10_20240702_193457_612230_24783_China.png",
+      "split": "validation",
+      "pixels": [
+        0,
+        0,
+        307200
+      ],
+      "mean_brightness": 8.22,
+      "rgb_min": 0,
+      "rgb_max": 20,
+      "channel_standard_deviation": [
+        1.0992659772632605,
+        1.0969292014153347,
+        1.1417003438400644
+      ],
+      "status": "suspected_uninformative_dark_frame",
+      "archived_baseline_metrics": {
+        "index": 233,
+        "name": "record_S315BB11SS1004_640x480_10_20240702_193457_612230_24783_China.png",
+        "group": "2",
+        "miou": 0.01935980902777778,
+        "iou": {
+          "background": 0.0,
+          "grass": 0.0,
+          "soil_grass": 0.058079427083333336
+        },
+        "grass_pixels": 0,
+        "soil_pixels": 307200,
+        "grass_soil_confusion_pixels": 289061,
+        "grass_soil_confusion_rate": 0.9409537760416666,
+        "grass_mean_brightness": 255.0,
+        "red_grass_fraction": 0.0,
+        "bright_fraction": 0.0
+      }
+    },
+    {
+      "group": "2",
+      "name": "record_S315BB11SS1004_640x480_10_20240702_193654_987418_26544_China.png",
+      "split": "validation",
+      "pixels": [
+        307200,
+        0,
+        0
+      ],
+      "mean_brightness": 123.80916341145833,
+      "rgb_min": 0,
+      "rgb_max": 255,
+      "channel_standard_deviation": [
+        85.62126543174111,
+        79.18220108785366,
+        88.37648468411474
+      ],
+      "status": "all_background_mask_requires_visual_review",
+      "archived_baseline_metrics": {
+        "index": 264,
+        "name": "record_S315BB11SS1004_640x480_10_20240702_193654_987418_26544_China.png",
+        "group": "2",
+        "miou": 0.3300960286458333,
+        "iou": {
+          "background": 0.6601920572916666,
+          "grass": 0.0,
+          "soil_grass": null
+        },
+        "grass_pixels": 0,
+        "soil_pixels": 0,
+        "grass_soil_confusion_pixels": 0,
+        "grass_soil_confusion_rate": 0.0,
+        "grass_mean_brightness": 255.0,
+        "red_grass_fraction": 0.0,
+        "bright_fraction": 0.2518717447916667
+      }
+    },
+    {
+      "group": "3",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_202655_95050_2167_China.png",
+      "split": "validation",
+      "pixels": [
+        307200,
+        0,
+        0
+      ],
+      "mean_brightness": 145.14627278645833,
+      "rgb_min": 0,
+      "rgb_max": 255,
+      "channel_standard_deviation": [
+        61.663530430328734,
+        56.96448060937931,
+        64.9093510993946
+      ],
+      "status": "all_background_mask_requires_visual_review",
+      "archived_baseline_metrics": {
+        "index": 460,
+        "name": "record_S315BB11SS1004_640x480_10_20240704_202655_95050_2167_China.png",
+        "group": "3",
+        "miou": 0.2096831597222222,
+        "iou": {
+          "background": 0.6290494791666666,
+          "grass": 0.0,
+          "soil_grass": 0.0
+        },
+        "grass_pixels": 0,
+        "soil_pixels": 0,
+        "grass_soil_confusion_pixels": 0,
+        "grass_soil_confusion_rate": 0.0,
+        "grass_mean_brightness": 255.0,
+        "red_grass_fraction": 0.0,
+        "bright_fraction": 0.13083658854166666
+      }
+    }
+  ],
+  "single_class_masks": {
+    "0": 2,
+    "1": 0,
+    "2": 1
+  },
+  "image_dimensions_wh": {
+    "640x480": 4145
+  },
+  "image_modes": {
+    "RGB": 4145
+  },
+  "valid_mask_values": [
+    0,
+    1,
+    2
+  ]
+}

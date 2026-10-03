@@ -1,0 +1,2004 @@
+{
+  "dark_grass": [
+    {
+      "group": "2",
+      "name": "record_S315BB11SS1004_640x480_10_20240702_192726_124397_18010_China.png",
+      "archive": "2.zip",
+      "member": "2/record_S315BB11SS1004_640x480_10_20240702_192726_124397_18010_China.png",
+      "split": "validation",
+      "image_bytes": 538049,
+      "image_file_md5": "f3823bc620413c02723a67f416286960",
+      "image_pixel_md5": "3f4bccebf2953eb6307f9e47a293c8cb",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240702_192726_124397_18010_China.png",
+      "mask_bytes": 1459,
+      "mask_file_md5": "9b6ea35dbaa6d28527ba334bbd2fa161",
+      "mask_pixel_md5": "29302e152aef692b645634235746fc1c",
+      "mask_valid": true,
+      "pixels": [
+        173778,
+        133422,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "908080c040000411",
+      "mean_brightness": 67.5771875,
+      "dark_pixel_fraction": 0.594794921875,
+      "bright_pixel_fraction": 0.109619140625,
+      "grass_mean_brightness": 32.799253496424875,
+      "red_grass_fraction": 0.0009518670084393878,
+      "pair_md5": "6c52c4d89b86984fbe9f39a942dd6e4a"
+    },
+    {
+      "group": "2",
+      "name": "record_S315BB11SS1004_640x480_10_20240702_192725_521247_18001_China.png",
+      "archive": "2.zip",
+      "member": "2/record_S315BB11SS1004_640x480_10_20240702_192725_521247_18001_China.png",
+      "split": "validation",
+      "image_bytes": 545264,
+      "image_file_md5": "b444474b2f09268ab743b8ec99133f3e",
+      "image_pixel_md5": "bfa56e9551f260d42798f629519b143e",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240702_192725_521247_18001_China.png",
+      "mask_bytes": 1434,
+      "mask_file_md5": "7962ed2ebc08a6617f4023262acfe65e",
+      "mask_pixel_md5": "cd7c90a83f68c04dd92d03ad6ba30432",
+      "mask_valid": true,
+      "pixels": [
+        169669,
+        137531,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "4848e060200001c0",
+      "mean_brightness": 80.0071875,
+      "dark_pixel_fraction": 0.480703125,
+      "bright_pixel_fraction": 0.13992838541666666,
+      "grass_mean_brightness": 35.10602700482073,
+      "red_grass_fraction": 0.00028357243094284196,
+      "pair_md5": "0d214681fbdb13e25c6a96f24401b451"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_205130_810248_37761_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_205130_810248_37761_China.png",
+      "split": "train",
+      "image_bytes": 551607,
+      "image_file_md5": "89f6840271422bff2a90c9ab1d5acebe",
+      "image_pixel_md5": "1cd05d3091b605bc25f98619c708d89b",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_205130_810248_37761_China.png",
+      "mask_bytes": 1829,
+      "mask_file_md5": "918a164d487f0ecb08172d17d953e1b0",
+      "mask_pixel_md5": "2f83e8c5a78f587c8b4e46311c7725c0",
+      "mask_valid": true,
+      "pixels": [
+        188336,
+        8230,
+        110634
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "135b5d743c128cc0",
+      "mean_brightness": 136.94821614583333,
+      "dark_pixel_fraction": 0.086787109375,
+      "bright_pixel_fraction": 0.15758138020833334,
+      "grass_mean_brightness": 35.97582017010936,
+      "red_grass_fraction": 0.0,
+      "pair_md5": "f2ac77ca1e4a8dfd88132f3a7e8d0d08"
+    },
+    {
+      "group": "2",
+      "name": "record_S315BB11SS1004_640x480_10_20240702_192718_792181_17900_China.png",
+      "archive": "2.zip",
+      "member": "2/record_S315BB11SS1004_640x480_10_20240702_192718_792181_17900_China.png",
+      "split": "validation",
+      "image_bytes": 525565,
+      "image_file_md5": "488af8cf6875517e76a288c825006a3e",
+      "image_pixel_md5": "ee2c0821950560977064fcce1542bfb6",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240702_192718_792181_17900_China.png",
+      "mask_bytes": 1506,
+      "mask_file_md5": "b582905c6adcdf2c690ab9d1ffd4c1b9",
+      "mask_pixel_md5": "bea36c4d6d55dbe0eb7421c531dd8481",
+      "mask_valid": true,
+      "pixels": [
+        162616,
+        144584,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "22a1838181028949",
+      "mean_brightness": 67.64701497395833,
+      "dark_pixel_fraction": 0.5142317708333334,
+      "bright_pixel_fraction": 0.09588541666666667,
+      "grass_mean_brightness": 38.623367730869255,
+      "red_grass_fraction": 0.004405743374093952,
+      "pair_md5": "d761304272e9d1d0b98f182ec08f1200"
+    },
+    {
+      "group": "1",
+      "name": "image7_bgr_0584.png",
+      "archive": "1.zip",
+      "member": "1/image7_bgr_0584.png",
+      "split": "train",
+      "image_bytes": 522411,
+      "image_file_md5": "ad39b50b3553071f1804dba8e70d523d",
+      "image_pixel_md5": "84c96e681b49260caabf91023306d16a",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/image7_bgr_0584.png",
+      "mask_bytes": 2334,
+      "mask_file_md5": "a083d111d29b8dcc13bba843d644eecd",
+      "mask_pixel_md5": "7b8128c539682d7bd110e50aaf20509c",
+      "mask_valid": true,
+      "pixels": [
+        172746,
+        126459,
+        7995
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "b39393131c500403",
+      "mean_brightness": 80.84634765625,
+      "dark_pixel_fraction": 0.37537760416666666,
+      "bright_pixel_fraction": 0.12277018229166667,
+      "grass_mean_brightness": 39.53380937695221,
+      "red_grass_fraction": 0.0033528653555697893,
+      "pair_md5": "ace5bda13383a143886c491c1c028166"
+    },
+    {
+      "group": "1",
+      "name": "image7_bgr_0582.png",
+      "archive": "1.zip",
+      "member": "1/image7_bgr_0582.png",
+      "split": "train",
+      "image_bytes": 527396,
+      "image_file_md5": "dd33d6afa11affcf8619f64907585671",
+      "image_pixel_md5": "18e0ecb4b89daca122332ee81da87248",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/image7_bgr_0582.png",
+      "mask_bytes": 2357,
+      "mask_file_md5": "6c2bdc8bdf2c090d49792c45c18c3821",
+      "mask_pixel_md5": "d4f21fdfe74863d80178cd18f6fc5ec9",
+      "mask_valid": true,
+      "pixels": [
+        177753,
+        121394,
+        8053
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "d9d9d8890e288414",
+      "mean_brightness": 87.09937825520834,
+      "dark_pixel_fraction": 0.34861328125,
+      "bright_pixel_fraction": 0.14159830729166667,
+      "grass_mean_brightness": 40.47529531937328,
+      "red_grass_fraction": 0.003772838855297626,
+      "pair_md5": "98ce606f8d5a9d08a155732d2f93e50d"
+    },
+    {
+      "group": "1",
+      "name": "image7_bgr_0506.png",
+      "archive": "1.zip",
+      "member": "1/image7_bgr_0506.png",
+      "split": "train",
+      "image_bytes": 502101,
+      "image_file_md5": "6559f5866d1edd19df70c44e6674aae7",
+      "image_pixel_md5": "f87be2dcc882d650c3bfa122f26cfd21",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/image7_bgr_0506.png",
+      "mask_bytes": 1676,
+      "mask_file_md5": "efb216a36d8ad745a6bcc550ea8e948a",
+      "mask_pixel_md5": "658d66510b12882ccc4a374d5bf57b07",
+      "mask_valid": true,
+      "pixels": [
+        206228,
+        98463,
+        2509
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "ba9a9b9bb0e32840",
+      "mean_brightness": 110.79775065104167,
+      "dark_pixel_fraction": 0.2940625,
+      "bright_pixel_fraction": 0.21642252604166667,
+      "grass_mean_brightness": 40.62133999573444,
+      "red_grass_fraction": 0.0012593563064298265,
+      "pair_md5": "1035ba39625277efb79cd1f266c0fbb4"
+    },
+    {
+      "group": "1",
+      "name": "image7_bgr_0505.png",
+      "archive": "1.zip",
+      "member": "1/image7_bgr_0505.png",
+      "split": "train",
+      "image_bytes": 501480,
+      "image_file_md5": "b34fc992b6cc5c5f95b7976fb0ddb39e",
+      "image_pixel_md5": "015af1f9cceab90be9ad54d193cc4a22",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/image7_bgr_0505.png",
+      "mask_bytes": 1493,
+      "mask_file_md5": "575accfb323f0722321c8037a696ca42",
+      "mask_pixel_md5": "1b1219f94761190b283132e1037077bf",
+      "mask_valid": true,
+      "pixels": [
+        208682,
+        96626,
+        1892
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "d9d9c9c9d0f39c30",
+      "mean_brightness": 108.47265625,
+      "dark_pixel_fraction": 0.316435546875,
+      "bright_pixel_fraction": 0.21325520833333333,
+      "grass_mean_brightness": 40.623227702688716,
+      "red_grass_fraction": 0.0019145985552542794,
+      "pair_md5": "0c4ea1c246375f737e68325c08eec285"
+    },
+    {
+      "group": "1",
+      "name": "image7_bgr_0508.png",
+      "archive": "1.zip",
+      "member": "1/image7_bgr_0508.png",
+      "split": "train",
+      "image_bytes": 508789,
+      "image_file_md5": "95c4e556898afcaac11292a40ef73e85",
+      "image_pixel_md5": "51a27d20de795361564c01aa711c3ea1",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/image7_bgr_0508.png",
+      "mask_bytes": 1771,
+      "mask_file_md5": "69745b9fdb2fb78ab3744a6ce73ee3a2",
+      "mask_pixel_md5": "b9b4836a10adee47d51f9c9e8799cd8e",
+      "mask_valid": true,
+      "pixels": [
+        202985,
+        100853,
+        3362
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "b4b2323260c75484",
+      "mean_brightness": 112.73364908854167,
+      "dark_pixel_fraction": 0.26426106770833335,
+      "bright_pixel_fraction": 0.21653645833333332,
+      "grass_mean_brightness": 40.63398213241054,
+      "red_grass_fraction": 0.0029547955935867055,
+      "pair_md5": "1a33a651cbcb65f01b33f426c2677c1c"
+    },
+    {
+      "group": "2",
+      "name": "record_S315BB11SS1004_640x480_10_20240702_192802_918049_18562_China.png",
+      "archive": "2.zip",
+      "member": "2/record_S315BB11SS1004_640x480_10_20240702_192802_918049_18562_China.png",
+      "split": "validation",
+      "image_bytes": 568436,
+      "image_file_md5": "c8789379cef35e1fc04b3eccf2259a28",
+      "image_pixel_md5": "4a39a7ec072adc224e6329b20a354c65",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240702_192802_918049_18562_China.png",
+      "mask_bytes": 1509,
+      "mask_file_md5": "6e861325e8621e40768c8a5096b8bba1",
+      "mask_pixel_md5": "b3bee122d0f9fc9768b89838996c8071",
+      "mask_valid": true,
+      "pixels": [
+        164987,
+        142213,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "d0d85818181498a8",
+      "mean_brightness": 86.14735026041667,
+      "dark_pixel_fraction": 0.336640625,
+      "bright_pixel_fraction": 0.14670247395833333,
+      "grass_mean_brightness": 40.64546138538671,
+      "red_grass_fraction": 0.02293742484864253,
+      "pair_md5": "1ccf6fff3d5be3cfb0c9a3218d5f149d"
+    },
+    {
+      "group": "1",
+      "name": "image7_bgr_0580.png",
+      "archive": "1.zip",
+      "member": "1/image7_bgr_0580.png",
+      "split": "train",
+      "image_bytes": 534104,
+      "image_file_md5": "8bcd36b3890df310135ccd711ff3d9ea",
+      "image_pixel_md5": "caf5c64e5f7d9cdd9451eb67ea36a38a",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/image7_bgr_0580.png",
+      "mask_bytes": 2130,
+      "mask_file_md5": "a878e27c9835605ea06e6142de004dd7",
+      "mask_pixel_md5": "a1238a8c91bf5c3b1e032a695b90a26a",
+      "mask_valid": true,
+      "pixels": [
+        179781,
+        120178,
+        7241
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "c8c84849879c8008",
+      "mean_brightness": 89.63259114583333,
+      "dark_pixel_fraction": 0.33465494791666667,
+      "bright_pixel_fraction": 0.14832356770833333,
+      "grass_mean_brightness": 40.72040639717752,
+      "red_grass_fraction": 0.004651433706668442,
+      "pair_md5": "a66bd5c6efc6d7ea3a42f17d614e1ca4"
+    },
+    {
+      "group": "1",
+      "name": "image7_bgr_0507.png",
+      "archive": "1.zip",
+      "member": "1/image7_bgr_0507.png",
+      "split": "train",
+      "image_bytes": 503424,
+      "image_file_md5": "7dbb43338e81a8024f5d2325e005dcc0",
+      "image_pixel_md5": "30a3265e2c0e9ba38a4769bcfe8fe31f",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/image7_bgr_0507.png",
+      "mask_bytes": 1735,
+      "mask_file_md5": "7024b37978f59deb3539c54a0abbac82",
+      "mask_pixel_md5": "cfed91196fa684cfa93fe4d4c463aea0",
+      "mask_valid": true,
+      "pixels": [
+        204879,
+        99289,
+        3032
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "b2b29292a0a35080",
+      "mean_brightness": 113.11080403645833,
+      "dark_pixel_fraction": 0.26947916666666666,
+      "bright_pixel_fraction": 0.221005859375,
+      "grass_mean_brightness": 40.90590095579571,
+      "red_grass_fraction": 0.0021956107927363555,
+      "pair_md5": "ecb097c43f56b7884ba9baadf232bd59"
+    }
+  ],
+  "bright_scene": [
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_204308_119799_30219_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_204308_119799_30219_China.png",
+      "split": "train",
+      "image_bytes": 273304,
+      "image_file_md5": "0c2588928aa9816e08547db9c57d8815",
+      "image_pixel_md5": "85fccac9885f5de019dd3a5632df1ca4",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_204308_119799_30219_China.png",
+      "mask_bytes": 2807,
+      "mask_file_md5": "421c63c96f1a7cfd1377ab4ece53c00c",
+      "mask_pixel_md5": "59ccb2407c9176b941553f3c2a2fa9a4",
+      "mask_valid": true,
+      "pixels": [
+        154401,
+        31048,
+        121751
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "e4dcd6c6c6c0f8fc",
+      "mean_brightness": 228.95897786458335,
+      "dark_pixel_fraction": 3.2552083333333335e-06,
+      "bright_pixel_fraction": 0.7022428385416667,
+      "grass_mean_brightness": 176.96672893584127,
+      "red_grass_fraction": 0.00489564545220304,
+      "pair_md5": "f1d12792ca7a7cdec424f692156fa6f3"
+    },
+    {
+      "group": "3",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_192220_36890_5706_China.png",
+      "archive": "3.zip",
+      "member": "3/record_S315BB11SS1004_640x480_10_20240704_192220_36890_5706_China.png",
+      "split": "validation",
+      "image_bytes": 365332,
+      "image_file_md5": "77973f248fcac3263d773eccb8e907fb",
+      "image_pixel_md5": "04828751ee8c50b339d85bb7c40bc49a",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_192220_36890_5706_China.png",
+      "mask_bytes": 1472,
+      "mask_file_md5": "d31afb4b31eea8223fb3aec6c16db8d2",
+      "mask_pixel_md5": "0912e6a449601d72b85f03b3c97edda4",
+      "mask_valid": true,
+      "pixels": [
+        284930,
+        22270,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "80c0f0bcfcc0809e",
+      "mean_brightness": 212.67465169270832,
+      "dark_pixel_fraction": 0.00197265625,
+      "bright_pixel_fraction": 0.6419205729166667,
+      "grass_mean_brightness": 111.4132914234396,
+      "red_grass_fraction": 0.026493039964077234,
+      "pair_md5": "3619dae7a6c7240beb090dd9833fc5b3"
+    },
+    {
+      "group": "3",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_202513_454148_642_China.png",
+      "archive": "3.zip",
+      "member": "3/record_S315BB11SS1004_640x480_10_20240704_202513_454148_642_China.png",
+      "split": "validation",
+      "image_bytes": 459618,
+      "image_file_md5": "dc89bdd9814eae862044aaf1c19193a6",
+      "image_pixel_md5": "c2a3c93b045f11954f1cb811c630fb35",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_202513_454148_642_China.png",
+      "mask_bytes": 3300,
+      "mask_file_md5": "d7e61037f671166616ed64e7cf15b67b",
+      "mask_pixel_md5": "f2858afb177c8eba0444913f0f006278",
+      "mask_valid": true,
+      "pixels": [
+        75638,
+        90304,
+        141258
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "999d1d8d8f8d8cd4",
+      "mean_brightness": 227.39572265625,
+      "dark_pixel_fraction": 3.90625e-05,
+      "bright_pixel_fraction": 0.606875,
+      "grass_mean_brightness": 194.02615609496812,
+      "red_grass_fraction": 3.322111977321049e-05,
+      "pair_md5": "5e0d5da70f4d11c5c38ebe9c8abb41dc"
+    },
+    {
+      "group": "supplement",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_232831_745322_3639_China.png",
+      "archive": "new_images_1002data (3).zip",
+      "member": "new_images_1002data/record_S315BB11SS1004_640x480_10_20240705_232831_745322_3639_China.png",
+      "split": "train",
+      "image_bytes": 437921,
+      "image_file_md5": "31534e2c8d7a87544204f5a5b35b0108",
+      "image_pixel_md5": "dc645175e23277a9b5b9e532d901cbad",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_232831_745322_3639_China.png",
+      "mask_bytes": 1610,
+      "mask_file_md5": "46621213f0e7668c373e13c0610c9c73",
+      "mask_pixel_md5": "2dcee139178a230b30248a8d2e2a5f96",
+      "mask_valid": true,
+      "pixels": [
+        203172,
+        104028,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "0000484040f80ec3",
+      "mean_brightness": 222.45461588541667,
+      "dark_pixel_fraction": 5.859375e-05,
+      "bright_pixel_fraction": 0.6059244791666667,
+      "grass_mean_brightness": 201.89198100511402,
+      "red_grass_fraction": 0.0,
+      "pair_md5": "1d3119b71ff259c4baae3b9667d1dfd9"
+    },
+    {
+      "group": "3",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_192219_705626_5701_China.png",
+      "archive": "3.zip",
+      "member": "3/record_S315BB11SS1004_640x480_10_20240704_192219_705626_5701_China.png",
+      "split": "validation",
+      "image_bytes": 362585,
+      "image_file_md5": "7594d38a8712c8fe80332a3614b55df5",
+      "image_pixel_md5": "9c5f5a91bbfc4b0b45ea4df6c4e95e87",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_192219_705626_5701_China.png",
+      "mask_bytes": 1783,
+      "mask_file_md5": "45f25be4dcb0bf4f7ba9f3890db9014e",
+      "mask_pixel_md5": "d7c36564bed3503460e8cce3ac808951",
+      "mask_valid": true,
+      "pixels": [
+        232007,
+        75193,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "00000020a1c64444",
+      "mean_brightness": 195.33457356770833,
+      "dark_pixel_fraction": 0.00043619791666666666,
+      "bright_pixel_fraction": 0.5461979166666666,
+      "grass_mean_brightness": 120.41539770989321,
+      "red_grass_fraction": 0.10821486042583751,
+      "pair_md5": "3913df9c5a5c7c2f3af7ef67057c8ec2"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_232502_388690_498_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_232502_388690_498_China.png",
+      "split": "train",
+      "image_bytes": 630753,
+      "image_file_md5": "50b9d9b2e7cf24c1ea64065a669154c1",
+      "image_pixel_md5": "6aec7115875758d77a3d65047ffa9098",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_232502_388690_498_China.png",
+      "mask_bytes": 1342,
+      "mask_file_md5": "2e4c6a3b5d664cbdcbe5b98140fac2d3",
+      "mask_pixel_md5": "397cea6e3510684e72760a71875145ca",
+      "mask_valid": true,
+      "pixels": [
+        135337,
+        171863,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "1fdf1f571d1e1767",
+      "mean_brightness": 208.11885416666667,
+      "dark_pixel_fraction": 0.00048502604166666665,
+      "bright_pixel_fraction": 0.4752506510416667,
+      "grass_mean_brightness": 217.19239161425088,
+      "red_grass_fraction": 0.00020365058214973555,
+      "pair_md5": "04e0304df8c17a62e089d6474a88a0dd"
+    },
+    {
+      "group": "4",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_223432_689972_1847_China.png",
+      "archive": "4.zip",
+      "member": "4/record_S315BB11SS1004_640x480_10_20240704_223432_689972_1847_China.png",
+      "split": "validation",
+      "image_bytes": 641565,
+      "image_file_md5": "dfc8fe442a737d0843384520363d5a93",
+      "image_pixel_md5": "fd00406b6775e3758773b1f8dd0e7c7e",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_223432_689972_1847_China.png",
+      "mask_bytes": 1646,
+      "mask_file_md5": "23a3efaa4a8945140cc7aa041a5757ff",
+      "mask_pixel_md5": "7d263591d00730dbeaf9a2f236fca08f",
+      "mask_valid": true,
+      "pixels": [
+        153847,
+        153353,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "7073276663870664",
+      "mean_brightness": 215.02363606770834,
+      "dark_pixel_fraction": 0.00017578125,
+      "bright_pixel_fraction": 0.4473567708333333,
+      "grass_mean_brightness": 215.55592652246776,
+      "red_grass_fraction": 0.00031300333218130716,
+      "pair_md5": "15afc01a55901bbb9cfdd498e180fd51"
+    },
+    {
+      "group": "4",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_224834_702431_14467_China.png",
+      "archive": "4.zip",
+      "member": "4/record_S315BB11SS1004_640x480_10_20240704_224834_702431_14467_China.png",
+      "split": "validation",
+      "image_bytes": 649291,
+      "image_file_md5": "e5652a65fad0b441061e2da3078e27cf",
+      "image_pixel_md5": "4b6a9e671294c2f6be7ce5014cf9d064",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_224834_702431_14467_China.png",
+      "mask_bytes": 1944,
+      "mask_file_md5": "c6349db8ddbfee3323e680690210bf58",
+      "mask_pixel_md5": "cf8240f127fdc418c643c521ac6b70d3",
+      "mask_valid": true,
+      "pixels": [
+        140314,
+        156379,
+        10507
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "383c1ef8f8ece9e8",
+      "mean_brightness": 209.61416341145832,
+      "dark_pixel_fraction": 7.161458333333333e-05,
+      "bright_pixel_fraction": 0.43583333333333335,
+      "grass_mean_brightness": 223.14426489490276,
+      "red_grass_fraction": 0.005940695361909208,
+      "pair_md5": "c83841e0af0c40f521f687c2bdc5bc4e"
+    },
+    {
+      "group": "4",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_224618_604029_12425_China.png",
+      "archive": "4.zip",
+      "member": "4/record_S315BB11SS1004_640x480_10_20240704_224618_604029_12425_China.png",
+      "split": "validation",
+      "image_bytes": 633210,
+      "image_file_md5": "f052d84d7073df318cff2d0da20de38e",
+      "image_pixel_md5": "1f39d64615533c88d3d7552fa25961e6",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_224618_604029_12425_China.png",
+      "mask_bytes": 1735,
+      "mask_file_md5": "558777625a057ff0d5e9e70873dc3e48",
+      "mask_pixel_md5": "39396ff1e142946f8673a87a0c6335c7",
+      "mask_valid": true,
+      "pixels": [
+        142771,
+        164429,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "707070f880840b0f",
+      "mean_brightness": 207.76124674479166,
+      "dark_pixel_fraction": 8.7890625e-05,
+      "bright_pixel_fraction": 0.43557291666666664,
+      "grass_mean_brightness": 216.68459943197368,
+      "red_grass_fraction": 0.0004743688765363774,
+      "pair_md5": "ceaea8af695c9dbe1b0d21486ede5103"
+    },
+    {
+      "group": "2",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_191730_435353_1361_China.png",
+      "archive": "2.zip",
+      "member": "2/record_S315BB11SS1004_640x480_10_20240704_191730_435353_1361_China.png",
+      "split": "validation",
+      "image_bytes": 548962,
+      "image_file_md5": "199f74437cab02ce8ce95807f12d378e",
+      "image_pixel_md5": "90607a604b0e954bab318ce54afdf461",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_191730_435353_1361_China.png",
+      "mask_bytes": 1486,
+      "mask_file_md5": "4583ff26938f5c917530b3cd22da011e",
+      "mask_pixel_md5": "d5dda986e97a86058f8397b71615971a",
+      "mask_valid": true,
+      "pixels": [
+        178940,
+        128260,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "e464d66f6cf3e203",
+      "mean_brightness": 208.27468424479167,
+      "dark_pixel_fraction": 2.604166666666667e-05,
+      "bright_pixel_fraction": 0.41654296875,
+      "grass_mean_brightness": 191.32657102760018,
+      "red_grass_fraction": 0.0014813659753625447,
+      "pair_md5": "498fcc755b6e00574de9c1f487995813"
+    },
+    {
+      "group": "3",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_202657_830939_2208_China.png",
+      "archive": "3.zip",
+      "member": "3/record_S315BB11SS1004_640x480_10_20240704_202657_830939_2208_China.png",
+      "split": "validation",
+      "image_bytes": 601213,
+      "image_file_md5": "4f3c315cbf81feb658fda06e5b243e2d",
+      "image_pixel_md5": "4cf9a43ab1c11cf97545e159c59605fb",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_202657_830939_2208_China.png",
+      "mask_bytes": 1947,
+      "mask_file_md5": "0515ecf3ca26f6b44409a4ca1c01b642",
+      "mask_pixel_md5": "a0b689783a47d665782d9187f3661a68",
+      "mask_valid": true,
+      "pixels": [
+        172137,
+        135063,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "f3f3f3e6feffffd9",
+      "mean_brightness": 208.35194986979167,
+      "dark_pixel_fraction": 2.9296875e-05,
+      "bright_pixel_fraction": 0.41132161458333333,
+      "grass_mean_brightness": 207.2240361905185,
+      "red_grass_fraction": 0.004560834573495332,
+      "pair_md5": "6ae0e381b4203ac056890d0afd0c919e"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_204308_320050_30222_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_204308_320050_30222_China.png",
+      "split": "train",
+      "image_bytes": 444572,
+      "image_file_md5": "3bffdac79438888aea8ead4e44ab1119",
+      "image_pixel_md5": "9e21e5766525c88826def6b04aa43b77",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_204308_320050_30222_China.png",
+      "mask_bytes": 3192,
+      "mask_file_md5": "60aa335e4b26f2cdff62bad13a53acde",
+      "mask_pixel_md5": "acf3edefc919ff54e8646b05559e135b",
+      "mask_valid": true,
+      "pixels": [
+        155556,
+        18580,
+        133064
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "30b0b0247fc0f0e0",
+      "mean_brightness": 191.02109700520833,
+      "dark_pixel_fraction": 0.005927734375,
+      "bright_pixel_fraction": 0.40624674479166667,
+      "grass_mean_brightness": 186.0005382131324,
+      "red_grass_fraction": 0.0077502691065662,
+      "pair_md5": "e5b7a576ed1688e972d4e96641750a86"
+    }
+  ],
+  "red_grass": [
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_204442_300900_31632_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_204442_300900_31632_China.png",
+      "split": "train",
+      "image_bytes": 674986,
+      "image_file_md5": "1799e42ae84661c939c8613f490efcdf",
+      "image_pixel_md5": "78917283042f45d9fabd5fce13e55cf5",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_204442_300900_31632_China.png",
+      "mask_bytes": 2496,
+      "mask_file_md5": "56a87ad55b6d26c4892ae6f45d0c201a",
+      "mask_pixel_md5": "e3f9facdb9308e8e6bdaefe168a7df42",
+      "mask_valid": true,
+      "pixels": [
+        174510,
+        116607,
+        16083
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "260613070606870e",
+      "mean_brightness": 126.59569010416666,
+      "dark_pixel_fraction": 0.016399739583333333,
+      "bright_pixel_fraction": 0.004384765625,
+      "grass_mean_brightness": 116.90400233262154,
+      "red_grass_fraction": 0.4003104444844649,
+      "pair_md5": "73312c3a50fcb66b1dc9465069828c3b"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_204323_650763_30452_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_204323_650763_30452_China.png",
+      "split": "train",
+      "image_bytes": 628162,
+      "image_file_md5": "8e7d73507ab868908e190d05c124aeb5",
+      "image_pixel_md5": "8f0710dd77a6b0c80aafce606cd31aba",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_204323_650763_30452_China.png",
+      "mask_bytes": 2453,
+      "mask_file_md5": "118bc5509bc6ca9226c4168d06d118f4",
+      "mask_pixel_md5": "0cd356bf7fb34dbf5cfa407f8227d426",
+      "mask_valid": true,
+      "pixels": [
+        149620,
+        92132,
+        65448
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "6b6be8e000df9e76",
+      "mean_brightness": 143.83111653645832,
+      "dark_pixel_fraction": 0.018929036458333333,
+      "bright_pixel_fraction": 0.007112630208333333,
+      "grass_mean_brightness": 125.380410715061,
+      "red_grass_fraction": 0.36320713758520384,
+      "pair_md5": "2fc09911ba86a4fcd9f09f0d3f00aad0"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_204510_360863_32053_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_204510_360863_32053_China.png",
+      "split": "train",
+      "image_bytes": 699354,
+      "image_file_md5": "c1e1c0fcd205331f021852c091f81b6e",
+      "image_pixel_md5": "684237019a43b56f6e88cd27a6ff509f",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_204510_360863_32053_China.png",
+      "mask_bytes": 2487,
+      "mask_file_md5": "aa12a8da49be50b0ec175811e36d6c77",
+      "mask_pixel_md5": "b7a326acfece6612a1b5f6e0406f1eba",
+      "mask_valid": true,
+      "pixels": [
+        169953,
+        116447,
+        20800
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "4e4fcb8b8b83c4f6",
+      "mean_brightness": 128.7534765625,
+      "dark_pixel_fraction": 0.04861328125,
+      "bright_pixel_fraction": 0.035546875,
+      "grass_mean_brightness": 152.94122648071655,
+      "red_grass_fraction": 0.3490085618349979,
+      "pair_md5": "ed62e7397068ca22e1148b15acf89243"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_204444_567387_31666_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_204444_567387_31666_China.png",
+      "split": "train",
+      "image_bytes": 630651,
+      "image_file_md5": "a533f0b0f5f4a3ed1246c5abb372b5c9",
+      "image_pixel_md5": "5d4d1084581ca34afbcceff0ef9c46d8",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_204444_567387_31666_China.png",
+      "mask_bytes": 2506,
+      "mask_file_md5": "2d4a1b7db0f23aa59ef71d5cdeb40e66",
+      "mask_pixel_md5": "6c7f5fc003fd432e1ec7c883c3bdb779",
+      "mask_valid": true,
+      "pixels": [
+        167164,
+        114487,
+        25549
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "626a476f61717878",
+      "mean_brightness": 119.75344401041667,
+      "dark_pixel_fraction": 0.012613932291666666,
+      "bright_pixel_fraction": 0.0045345052083333335,
+      "grass_mean_brightness": 130.12270388777765,
+      "red_grass_fraction": 0.3442312227589159,
+      "pair_md5": "dbda2458cb5f31a75e2b1394870d9f19"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_204451_97348_31764_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_204451_97348_31764_China.png",
+      "split": "train",
+      "image_bytes": 730771,
+      "image_file_md5": "07b683066ba9ed8fe43c0275467e4020",
+      "image_pixel_md5": "22cea28befa1b8387c9c7dc6832ca7a5",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_204451_97348_31764_China.png",
+      "mask_bytes": 1950,
+      "mask_file_md5": "b6dd0c325222e3ca88f2b3ffb63eae17",
+      "mask_pixel_md5": "4bd7eae7d6992c8e591d9024da67d820",
+      "mask_valid": true,
+      "pixels": [
+        192024,
+        115176,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "2031212139f0feee",
+      "mean_brightness": 164.60005208333334,
+      "dark_pixel_fraction": 0.0044140625,
+      "bright_pixel_fraction": 0.06917643229166667,
+      "grass_mean_brightness": 138.83398451066194,
+      "red_grass_fraction": 0.3124088351739946,
+      "pair_md5": "c59b21d7ec08f6bc6dc4001fe4aaee34"
+    },
+    {
+      "group": "7",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_164633_235494_12851_China.png",
+      "archive": "7.zip",
+      "member": "7/record_S315BB11SS1004_640x480_10_20240705_164633_235494_12851_China.png",
+      "split": "train",
+      "image_bytes": 673262,
+      "image_file_md5": "03aadbc99a7353b3a49a3a48c5c6553f",
+      "image_pixel_md5": "f95a7ac6b8ede10a5102680d5efaa8b1",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_164633_235494_12851_China.png",
+      "mask_bytes": 1998,
+      "mask_file_md5": "395c5144424cd9f210697c391fc4f555",
+      "mask_pixel_md5": "1023e1322e407910c1cf38021ea11ed1",
+      "mask_valid": true,
+      "pixels": [
+        221770,
+        85430,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "3939b1b080000c38",
+      "mean_brightness": 129.22258138020834,
+      "dark_pixel_fraction": 0.04771158854166667,
+      "bright_pixel_fraction": 0.06289388020833334,
+      "grass_mean_brightness": 113.46083343087908,
+      "red_grass_fraction": 0.2871824885871474,
+      "pair_md5": "68c59c02f99309068570bc5bca955bb4"
+    },
+    {
+      "group": "7",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_165516_120588_20696_China.png",
+      "archive": "7.zip",
+      "member": "7/record_S315BB11SS1004_640x480_10_20240705_165516_120588_20696_China.png",
+      "split": "train",
+      "image_bytes": 726285,
+      "image_file_md5": "dcbffa212f57d00936aad87503d265d6",
+      "image_pixel_md5": "ef3fa12de3b98a59dc148f47f1260f15",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_165516_120588_20696_China.png",
+      "mask_bytes": 2173,
+      "mask_file_md5": "beb2b759f26a9ddc25a81e0c3b9d63bb",
+      "mask_pixel_md5": "07f187000a0e4c9f20625bc3b8c31d24",
+      "mask_valid": true,
+      "pixels": [
+        224690,
+        82510,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "08814347c182c3f4",
+      "mean_brightness": 105.667880859375,
+      "dark_pixel_fraction": 0.21640299479166666,
+      "bright_pixel_fraction": 0.04628255208333333,
+      "grass_mean_brightness": 173.52560901708884,
+      "red_grass_fraction": 0.25293903769240095,
+      "pair_md5": "4550412d4277b195c2387b97f25d654e"
+    },
+    {
+      "group": "7",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_164634_633312_12872_China.png",
+      "archive": "7.zip",
+      "member": "7/record_S315BB11SS1004_640x480_10_20240705_164634_633312_12872_China.png",
+      "split": "train",
+      "image_bytes": 640797,
+      "image_file_md5": "c7d355ac4144b5115c284a75fb03fe3d",
+      "image_pixel_md5": "acf1249ef7364fa4fc825cd60ff36be5",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_164634_633312_12872_China.png",
+      "mask_bytes": 3107,
+      "mask_file_md5": "291cbf5356cb6478a5908e2c672863db",
+      "mask_pixel_md5": "00ef26480c7e5deba56496d3037a4987",
+      "mask_valid": true,
+      "pixels": [
+        152492,
+        102788,
+        51920
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "7377634301011060",
+      "mean_brightness": 97.34730143229167,
+      "dark_pixel_fraction": 0.11338541666666667,
+      "bright_pixel_fraction": 0.018763020833333335,
+      "grass_mean_brightness": 78.16731525080749,
+      "red_grass_fraction": 0.2527143246293342,
+      "pair_md5": "60e67db5f41c07ca98e3e3167eb2d689"
+    },
+    {
+      "group": "7",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_165516_55462_20695_China.png",
+      "archive": "7.zip",
+      "member": "7/record_S315BB11SS1004_640x480_10_20240705_165516_55462_20695_China.png",
+      "split": "train",
+      "image_bytes": 716242,
+      "image_file_md5": "2ec0cac8d713730f83b98147b0d3886d",
+      "image_pixel_md5": "28da7315f3dcd3dccc5e233ee2f92d64",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_165516_55462_20695_China.png",
+      "mask_bytes": 2117,
+      "mask_file_md5": "5983a62fb53b92f58e89fd27f0b2756d",
+      "mask_pixel_md5": "916d3c8de3b2a3ed9bccb06a97597b3b",
+      "mask_valid": true,
+      "pixels": [
+        213864,
+        93336,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "0090a121e2c1e0fc",
+      "mean_brightness": 115.75625325520834,
+      "dark_pixel_fraction": 0.14431640625,
+      "bright_pixel_fraction": 0.04498046875,
+      "grass_mean_brightness": 172.6227714922431,
+      "red_grass_fraction": 0.2507392645924402,
+      "pair_md5": "e8a67f9fee9a33c4b2c3cbf6c864cd9d"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_204959_963264_36398_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_204959_963264_36398_China.png",
+      "split": "train",
+      "image_bytes": 538638,
+      "image_file_md5": "45a4d22789c204037977f9e987f79505",
+      "image_pixel_md5": "ad0ae4f24345a986155bb490ec5b429a",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_204959_963264_36398_China.png",
+      "mask_bytes": 2045,
+      "mask_file_md5": "504057bc0ee339c20fd72ef9bc354c28",
+      "mask_pixel_md5": "3d3b184ecbf9235cc8f1dde9f5cd4b3c",
+      "mask_valid": true,
+      "pixels": [
+        271765,
+        35435,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "0000008081c14141",
+      "mean_brightness": 111.24855143229166,
+      "dark_pixel_fraction": 0.001357421875,
+      "bright_pixel_fraction": 0.00455078125,
+      "grass_mean_brightness": 109.47602652744462,
+      "red_grass_fraction": 0.24885000705517143,
+      "pair_md5": "67609bf49f4c896020519900ed85ab32"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_204514_93105_32109_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_204514_93105_32109_China.png",
+      "split": "train",
+      "image_bytes": 672586,
+      "image_file_md5": "f8986ef69abf118335d66af91d08d0b1",
+      "image_pixel_md5": "0117156f59b2343e22362a75bfcb4512",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_204514_93105_32109_China.png",
+      "mask_bytes": 2258,
+      "mask_file_md5": "6ae9bd6ee71c2004911d971adbd631be",
+      "mask_pixel_md5": "b42921474df45f44d33df2e40b2396c1",
+      "mask_valid": true,
+      "pixels": [
+        168804,
+        98788,
+        39608
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "3e3e1c5c5f1f63e2",
+      "mean_brightness": 151.13738606770832,
+      "dark_pixel_fraction": 0.023727213541666667,
+      "bright_pixel_fraction": 0.050439453125,
+      "grass_mean_brightness": 175.27765518079119,
+      "red_grass_fraction": 0.245697858039438,
+      "pair_md5": "e8b72b7672e24b6537edc071b4cb1321"
+    },
+    {
+      "group": "3",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_192220_372200_5711_China.png",
+      "archive": "3.zip",
+      "member": "3/record_S315BB11SS1004_640x480_10_20240704_192220_372200_5711_China.png",
+      "split": "validation",
+      "image_bytes": 590386,
+      "image_file_md5": "6ae25489f6fd815d0130cb8a56b343b2",
+      "image_pixel_md5": "050906b7ad82df27594aa240af41104b",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_192220_372200_5711_China.png",
+      "mask_bytes": 1346,
+      "mask_file_md5": "b29c70607b29129e6d60e42b0f6d8303",
+      "mask_pixel_md5": "f62c51860e53548a0d96c3305773040b",
+      "mask_valid": true,
+      "pixels": [
+        153342,
+        153858,
+        0
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "fefe585510969e3c",
+      "mean_brightness": 97.647646484375,
+      "dark_pixel_fraction": 0.137626953125,
+      "bright_pixel_fraction": 7.486979166666666e-05,
+      "grass_mean_brightness": 60.0907070155598,
+      "red_grass_fraction": 0.23669877419438703,
+      "pair_md5": "d2ca240ecb5847bcb2b5b5cb54c82a48"
+    }
+  ],
+  "soil_rich": [
+    {
+      "group": "2",
+      "name": "record_S315BB11SS1004_640x480_10_20240702_193457_612230_24783_China.png",
+      "archive": "2.zip",
+      "member": "2/record_S315BB11SS1004_640x480_10_20240702_193457_612230_24783_China.png",
+      "split": "validation",
+      "image_bytes": 285590,
+      "image_file_md5": "2afb82ff0999cccce1d1cee5b7867c04",
+      "image_pixel_md5": "f0856ced93ed4347b85b21a9fab72713",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240702_193457_612230_24783_China.png",
+      "mask_bytes": 1399,
+      "mask_file_md5": "27304c0bc751fd1d752b690c36449973",
+      "mask_pixel_md5": "6dfd17bcb218f846f04cfb1afffc79d7",
+      "mask_valid": true,
+      "pixels": [
+        0,
+        0,
+        307200
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "0000000000000000",
+      "mean_brightness": 8.22,
+      "dark_pixel_fraction": 1.0,
+      "bright_pixel_fraction": 0.0,
+      "grass_mean_brightness": null,
+      "red_grass_fraction": null,
+      "pair_md5": "7e08c2ab8f56dabd6c62d5c9c744c70d"
+    },
+    {
+      "group": "4",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_224754_710557_13867_China.png",
+      "archive": "4.zip",
+      "member": "4/record_S315BB11SS1004_640x480_10_20240704_224754_710557_13867_China.png",
+      "split": "validation",
+      "image_bytes": 570632,
+      "image_file_md5": "483ff3f4016a918d53446ceb4c75a0bb",
+      "image_pixel_md5": "617ba6fbad68f213b4a2a71675bb7b37",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_224754_710557_13867_China.png",
+      "mask_bytes": 2613,
+      "mask_file_md5": "bedde64aeaa4982cbd422437879e1c0b",
+      "mask_pixel_md5": "c08266c1bf227a7cec51f61840e596b2",
+      "mask_valid": true,
+      "pixels": [
+        63450,
+        3526,
+        240224
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "c3c300c0fc8e965f",
+      "mean_brightness": 139.624912109375,
+      "dark_pixel_fraction": 0.09714518229166667,
+      "bright_pixel_fraction": 0.00014322916666666667,
+      "grass_mean_brightness": 74.66080544526376,
+      "red_grass_fraction": 0.0,
+      "pair_md5": "e799b33ec20b2d5207ecb0ac17bef044"
+    },
+    {
+      "group": "1",
+      "name": "image3_bgr_1266.png",
+      "archive": "1.zip",
+      "member": "1/image3_bgr_1266.png",
+      "split": "train",
+      "image_bytes": 610879,
+      "image_file_md5": "bf5ac4671e4cf04b399ca8dd5a5e496a",
+      "image_pixel_md5": "d7a2098262e4b2994f96c26c617cf09e",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/image3_bgr_1266.png",
+      "mask_bytes": 2564,
+      "mask_file_md5": "1c332a57e12afea0c19d0f9d82cf823b",
+      "mask_pixel_md5": "150787fd3d6ee8177826ddcd7cff112d",
+      "mask_valid": true,
+      "pixels": [
+        89737,
+        4086,
+        213377
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "5c78f8bcfcfa86a7",
+      "mean_brightness": 111.51218424479167,
+      "dark_pixel_fraction": 0.085927734375,
+      "bright_pixel_fraction": 0.015013020833333333,
+      "grass_mean_brightness": 74.19774840920215,
+      "red_grass_fraction": 0.10254527655408713,
+      "pair_md5": "78950d72ffa88b88e50ff4043f2fa53c"
+    },
+    {
+      "group": "7",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_165756_684926_23105_China.png",
+      "archive": "7.zip",
+      "member": "7/record_S315BB11SS1004_640x480_10_20240705_165756_684926_23105_China.png",
+      "split": "train",
+      "image_bytes": 672528,
+      "image_file_md5": "f5867f7ce0e2ac353dcb8c69a969a0a8",
+      "image_pixel_md5": "2d6cea45bd58d5f2d63330f1c9d5334c",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_165756_684926_23105_China.png",
+      "mask_bytes": 2870,
+      "mask_file_md5": "b85ca29ffeace89c176936d1e8f49376",
+      "mask_pixel_md5": "780426aef63894ec9e2a3e17cc218bd5",
+      "mask_valid": true,
+      "pixels": [
+        147311,
+        0,
+        159889
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "c8dccab879373713",
+      "mean_brightness": 155.78145833333335,
+      "dark_pixel_fraction": 0.004274088541666667,
+      "bright_pixel_fraction": 0.173984375,
+      "grass_mean_brightness": null,
+      "red_grass_fraction": null,
+      "pair_md5": "af9b6ceaeb6be24c31c249482d360031"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_205132_814171_37791_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_205132_814171_37791_China.png",
+      "split": "train",
+      "image_bytes": 575987,
+      "image_file_md5": "5f9e19640fc1248d981339f2b87ac339",
+      "image_pixel_md5": "0390894107be8ed51216bc5a3863ef1c",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_205132_814171_37791_China.png",
+      "mask_bytes": 2106,
+      "mask_file_md5": "69119da5b30f49eb4d55c7c24ba967ca",
+      "mask_pixel_md5": "6afd12f9d52f230fc45734e9bb8ba649",
+      "mask_valid": true,
+      "pixels": [
+        150169,
+        0,
+        157031
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "4e3636f0d086c0a0",
+      "mean_brightness": 138.83155598958334,
+      "dark_pixel_fraction": 0.04530598958333333,
+      "bright_pixel_fraction": 0.13690104166666667,
+      "grass_mean_brightness": null,
+      "red_grass_fraction": null,
+      "pair_md5": "60350846ff5ed0a03b466f7c6473542d"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_204458_965635_31882_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_204458_965635_31882_China.png",
+      "split": "train",
+      "image_bytes": 674818,
+      "image_file_md5": "57fd79ba68f2c5a3b128c739cdd94f38",
+      "image_pixel_md5": "59ab22294243ee9bee14482fd49661e8",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_204458_965635_31882_China.png",
+      "mask_bytes": 1998,
+      "mask_file_md5": "96118578a46458f584ef4331b5205f77",
+      "mask_pixel_md5": "8ec0f789866f02f6085185c819ff9fca",
+      "mask_valid": true,
+      "pixels": [
+        119381,
+        31716,
+        156103
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "b020290100d0f0d0",
+      "mean_brightness": 153.777333984375,
+      "dark_pixel_fraction": 0.027112630208333332,
+      "bright_pixel_fraction": 0.10280924479166667,
+      "grass_mean_brightness": 109.804893429184,
+      "red_grass_fraction": 0.040200529701097235,
+      "pair_md5": "c84d8313e0af24b5213ad5f5edd7a2f2"
+    },
+    {
+      "group": "supplement",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_233619_971893_10664_China.png",
+      "archive": "new_images_1002data (3).zip",
+      "member": "new_images_1002data/record_S315BB11SS1004_640x480_10_20240705_233619_971893_10664_China.png",
+      "split": "train",
+      "image_bytes": 663313,
+      "image_file_md5": "28f198ab081a20135ed1bad3ea6049ee",
+      "image_pixel_md5": "a8767566e8ba1df9fe4bfc985c111d8d",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_233619_971893_10664_China.png",
+      "mask_bytes": 2216,
+      "mask_file_md5": "4f35433726186e5aa4b951ffff74f6d0",
+      "mask_pixel_md5": "015d48aace1e182e2784c15d24b6e0b2",
+      "mask_valid": true,
+      "pixels": [
+        115074,
+        36303,
+        155823
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "2145558f1e161cc8",
+      "mean_brightness": 161.18773111979166,
+      "dark_pixel_fraction": 0.018030598958333335,
+      "bright_pixel_fraction": 0.06134765625,
+      "grass_mean_brightness": 101.2617139079415,
+      "red_grass_fraction": 0.0,
+      "pair_md5": "dccafbe505dbac88c2183b120103f379"
+    },
+    {
+      "group": "4",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_224754_911127_13870_China.png",
+      "archive": "4.zip",
+      "member": "4/record_S315BB11SS1004_640x480_10_20240704_224754_911127_13870_China.png",
+      "split": "validation",
+      "image_bytes": 561445,
+      "image_file_md5": "7ff85254284a2e364a2577ba7a9fb083",
+      "image_pixel_md5": "91dcf30c9ae4a4840bbeadc89ed30cc4",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_224754_911127_13870_China.png",
+      "mask_bytes": 2373,
+      "mask_file_md5": "992327c75844eb394fd2956a60d5209b",
+      "mask_pixel_md5": "1797c7026e6a3fd08520316b0c4c1363",
+      "mask_valid": true,
+      "pixels": [
+        145894,
+        5893,
+        155413
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "c68f43c5c40c0e82",
+      "mean_brightness": 127.08240234375,
+      "dark_pixel_fraction": 0.14055013020833335,
+      "bright_pixel_fraction": 0.028515625,
+      "grass_mean_brightness": 77.02901747836417,
+      "red_grass_fraction": 0.0,
+      "pair_md5": "3768ad6f22fbbdb57d3c8365b0789452"
+    },
+    {
+      "group": "6",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_202029_106505_9822_China.png",
+      "archive": "6.zip",
+      "member": "6/record_S315BB11SS1004_640x480_10_20240705_202029_106505_9822_China.png",
+      "split": "train",
+      "image_bytes": 649300,
+      "image_file_md5": "89916c2a66fb76d1f17c03a48ac16307",
+      "image_pixel_md5": "23935d4da58fcd7b8e78a51794ea25dd",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_202029_106505_9822_China.png",
+      "mask_bytes": 2055,
+      "mask_file_md5": "af0fbbe102da1bc528d4cc169ab876a0",
+      "mask_pixel_md5": "7067d1e6de1205da5918cc64da515c1f",
+      "mask_valid": true,
+      "pixels": [
+        112660,
+        39954,
+        154586
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "7b7b3810008e86c6",
+      "mean_brightness": 130.90036783854165,
+      "dark_pixel_fraction": 0.095771484375,
+      "bright_pixel_fraction": 0.0026009114583333335,
+      "grass_mean_brightness": 72.849677128698,
+      "red_grass_fraction": 0.0007258347099164038,
+      "pair_md5": "39fc4545cfc888100de5cfd9f98d3806"
+    },
+    {
+      "group": "supplement",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_233320_611202_7973_China.png",
+      "archive": "new_images_1002data (3).zip",
+      "member": "new_images_1002data/record_S315BB11SS1004_640x480_10_20240705_233320_611202_7973_China.png",
+      "split": "train",
+      "image_bytes": 652381,
+      "image_file_md5": "e2ef6726417509d0a929f3d72f645c92",
+      "image_pixel_md5": "0848bc181b7e12370770118a381c9376",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_233320_611202_7973_China.png",
+      "mask_bytes": 3025,
+      "mask_file_md5": "e5b4d2f8fa874ce493bd3e6c9f2b573d",
+      "mask_pixel_md5": "184c17b48a8b68d69c53ddde46112491",
+      "mask_valid": true,
+      "pixels": [
+        127292,
+        33576,
+        146332
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "1e3e36f6e8c6c8f0",
+      "mean_brightness": 138.15101236979166,
+      "dark_pixel_fraction": 0.101572265625,
+      "bright_pixel_fraction": 0.02216796875,
+      "grass_mean_brightness": 92.59113652609007,
+      "red_grass_fraction": 0.0009530617107457708,
+      "pair_md5": "b4d0c57afa71045bbeb8912b54506294"
+    },
+    {
+      "group": "8",
+      "name": "record_S315BB11SS1004_640x480_10_20240705_205131_943296_37778_China.png",
+      "archive": "8.zip",
+      "member": "8/record_S315BB11SS1004_640x480_10_20240705_205131_943296_37778_China.png",
+      "split": "train",
+      "image_bytes": 563028,
+      "image_file_md5": "b5ebfb8b78a12cec8cf35bcc6f2078c0",
+      "image_pixel_md5": "b5b85be81445e259a8dab2740a1046c7",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240705_205131_943296_37778_China.png",
+      "mask_bytes": 2361,
+      "mask_file_md5": "cae6bc2f682670903638dec6829c927e",
+      "mask_pixel_md5": "1aadca91bcae1f51265c731e8c964e71",
+      "mask_valid": true,
+      "pixels": [
+        162091,
+        3592,
+        141517
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "c5f6979d8dcef6f2",
+      "mean_brightness": 136.00750325520832,
+      "dark_pixel_fraction": 0.068193359375,
+      "bright_pixel_fraction": 0.14694661458333333,
+      "grass_mean_brightness": 42.14838530066815,
+      "red_grass_fraction": 0.0033407572383073497,
+      "pair_md5": "8823fa7f6844d13e6d3efac8a0c2c23c"
+    },
+    {
+      "group": "3",
+      "name": "record_S315BB11SS1004_640x480_10_20240704_202513_454148_642_China.png",
+      "archive": "3.zip",
+      "member": "3/record_S315BB11SS1004_640x480_10_20240704_202513_454148_642_China.png",
+      "split": "validation",
+      "image_bytes": 459618,
+      "image_file_md5": "dc89bdd9814eae862044aaf1c19193a6",
+      "image_pixel_md5": "c2a3c93b045f11954f1cb811c630fb35",
+      "usable": true,
+      "mask_member": "labels_gray_1002data/record_S315BB11SS1004_640x480_10_20240704_202513_454148_642_China.png",
+      "mask_bytes": 3300,
+      "mask_file_md5": "d7e61037f671166616ed64e7cf15b67b",
+      "mask_pixel_md5": "f2858afb177c8eba0444913f0f006278",
+      "mask_valid": true,
+      "pixels": [
+        75638,
+        90304,
+        141258
+      ],
+      "mask_shape": [
+        480,
+        640
+      ],
+      "mask_values": [
+        0,
+        1,
+        2
+      ],
+      "image_mode": "RGB",
+      "size_wh": [
+        640,
+        480
+      ],
+      "dhash64": "999d1d8d8f8d8cd4",
+      "mean_brightness": 227.39572265625,
+      "dark_pixel_fraction": 3.90625e-05,
+      "bright_pixel_fraction": 0.606875,
+      "grass_mean_brightness": 194.02615609496812,
+      "red_grass_fraction": 3.322111977321049e-05,
+      "pair_md5": "5e0d5da70f4d11c5c38ebe9c8abb41dc"
+    }
+  ]
+}

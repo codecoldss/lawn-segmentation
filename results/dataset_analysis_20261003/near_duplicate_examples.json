@@ -1,0 +1,110 @@
+[
+  {
+    "group": "1",
+    "first": "image3_bgr_0000.png",
+    "second": "image3_bgr_0101.png",
+    "hamming_distance": 1,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "3",
+    "first": "record_S315BB11SS1004_640x480_10_20240704_192944_871898_12380_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240704_192945_74094_12383_China.png",
+    "hamming_distance": 2,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "3",
+    "first": "record_S315BB11SS1004_640x480_10_20240704_202513_454148_642_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240704_202513_651902_645_China.png",
+    "hamming_distance": 2,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "4",
+    "first": "record_S315BB11SS1004_640x480_10_20240704_223432_689972_1847_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240704_223432_892878_1850_China.png",
+    "hamming_distance": 1,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "4",
+    "first": "record_S315BB11SS1004_640x480_10_20240704_224713_915917_13255_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240704_224714_53119_13257_China.png",
+    "hamming_distance": 1,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "5",
+    "first": "record_S315BB11SS1004_640x480_10_20240705_163402_534590_1588_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240705_163402_796887_1592_China.png",
+    "hamming_distance": 2,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "6",
+    "first": "record_S315BB11SS1004_640x480_10_20240705_201729_747625_7131_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240705_201729_813806_7132_China.png",
+    "hamming_distance": 1,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "7",
+    "first": "record_S315BB11SS1004_640x480_10_20240705_172010_124763_43111_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240705_172010_59803_43110_China.png",
+    "hamming_distance": 2,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "7",
+    "first": "record_S315BB11SS1004_640x480_10_20240705_172436_935121_47114_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240705_172437_513_47115_China.png",
+    "hamming_distance": 2,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "8",
+    "first": "record_S315BB11SS1004_640x480_10_20240705_205154_140195_38111_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240705_205154_472790_38116_China.png",
+    "hamming_distance": 1,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "8",
+    "first": "record_S315BB11SS1004_640x480_10_20240705_202711_353443_15857_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240705_202712_87684_15868_China.png",
+    "hamming_distance": 3,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  },
+  {
+    "group": "supplement",
+    "first": "record_S315BB11SS1004_640x480_10_20240705_234507_592488_18580_China.png",
+    "second": "record_S315BB11SS1004_640x480_10_20240705_234507_656461_18581_China.png",
+    "hamming_distance": 0,
+    "first_usable": true,
+    "second_usable": true,
+    "same_image_md5": false
+  }
+]

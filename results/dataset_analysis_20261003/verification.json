@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "manifest_rows": 4145,
+  "source_audit_pixel_counts_match": true,
+  "counts_shapes_labels_and_quality_candidates_verified": true,
+  "md5_grouping_effective_split_and_unusable_filter_cases_passed": true,
+  "source_data_modified": false
+}

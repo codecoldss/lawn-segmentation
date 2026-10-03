@@ -1,0 +1,11 @@
+Masks read: 4145, valid=3896
+Group 1: 164 images scanned
+Group 2: 308 images scanned
+Group 4: 468 images scanned
+Group 5: 320 images scanned
+Group 3: 468 images scanned
+Group 6: 213 images scanned
+Group 7: 700 images scanned
+Group supplement: 752 images scanned
+Group 8: 752 images scanned
+{"overall": {"images": 4145, "usable": 3896, "empty_masks": 249, "invalid_or_missing": 249, "pixels": {"background": 619002963, "grass": 548596841, "soil_grass": 29251396}, "pixel_fraction": {"background": 0.5171929167134561, "grass": 0.45836678862000557, "soil_grass": 0.02444029466653833}, "images_with_class": {"background": 3895, "grass": 3884, "soil_grass": 1090}, "soil_fraction_quantiles": {"min": 0.0, "p25": 0.0, "median": 0.0, "p75": 0.00989501953125, "p90": 0.0727001953125, "max": 1.0}}, "duplicates": {"image_file_md5": {"groups": 0, "members": 0, "redundant_copies": 0, "cross_effective_split_groups": 0}, "image_decoded_pixel_md5": {"groups": 0, "members": 0, "redundant_copies": 0, "cross_effective_split_groups": 0}, "nonempty_mask_file_md5": {"groups": 1, "members": 2, "redundant_copies": 1, "cross_effective_split_groups": 0}, "mask_decoded_pixel_md5": {"groups": 1, "members": 2, "redundant_copies": 1, "cross_effective_split_groups": 0}, "decoded_image_mask_pair_md5": {"groups": 0, "members": 0, "redundant_copies": 0, "cross_effective_split_groups": 0}}, "near_duplicate_candidates": 16, "issues": 0}

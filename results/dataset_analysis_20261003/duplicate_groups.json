@@ -1,0 +1,57 @@
+{
+  "image_file_md5": [],
+  "image_decoded_pixel_md5": [],
+  "nonempty_mask_file_md5": [
+    {
+      "md5": "a50689866c60ea907ad9ce265c0f10ab",
+      "count": 2,
+      "redundant_copies": 1,
+      "cross_effective_split": false,
+      "members": [
+        {
+          "group": "2",
+          "name": "record_S315BB11SS1004_640x480_10_20240702_193654_987418_26544_China.png",
+          "archive": "2.zip",
+          "member": "2/record_S315BB11SS1004_640x480_10_20240702_193654_987418_26544_China.png",
+          "split": "validation",
+          "usable": true
+        },
+        {
+          "group": "3",
+          "name": "record_S315BB11SS1004_640x480_10_20240704_202655_95050_2167_China.png",
+          "archive": "3.zip",
+          "member": "3/record_S315BB11SS1004_640x480_10_20240704_202655_95050_2167_China.png",
+          "split": "validation",
+          "usable": true
+        }
+      ]
+    }
+  ],
+  "mask_decoded_pixel_md5": [
+    {
+      "md5": "f6c87a24004872c37c393c10fc70d6c6",
+      "count": 2,
+      "redundant_copies": 1,
+      "cross_effective_split": false,
+      "members": [
+        {
+          "group": "2",
+          "name": "record_S315BB11SS1004_640x480_10_20240702_193654_987418_26544_China.png",
+          "archive": "2.zip",
+          "member": "2/record_S315BB11SS1004_640x480_10_20240702_193654_987418_26544_China.png",
+          "split": "validation",
+          "usable": true
+        },
+        {
+          "group": "3",
+          "name": "record_S315BB11SS1004_640x480_10_20240704_202655_95050_2167_China.png",
+          "archive": "3.zip",
+          "member": "3/record_S315BB11SS1004_640x480_10_20240704_202655_95050_2167_China.png",
+          "split": "validation",
+          "usable": true
+        }
+      ]
+    }
+  ],
+  "decoded_image_mask_pair_md5": []
+}
